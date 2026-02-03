@@ -7,3 +7,5 @@ requests
 python-dotenv
 pytest
 websockets
+beautifulsoup4
+lxml
