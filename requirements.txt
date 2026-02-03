@@ -1,0 +1,9 @@
+fastapi>=0.100.0
+uvicorn>=0.23.0
+pydantic>=2.0.0
+python-multipart
+httpx
+requests
+python-dotenv
+pytest
+websockets

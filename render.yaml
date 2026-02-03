@@ -1,0 +1,32 @@
+services:
+  # The Brain (Python Backend)
+  - type: web
+    name: aievollve-brain
+    env: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn backend.app.main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: PORT
+        value: 10000
+      - key: PYTHON_VERSION
+        value: 3.11.0
+    disk:
+      name: world_data
+      mountPath: /app/data
+      sizeGB: 1
+
+  # The Window (Next.js Frontend) - Optional, usually better on Vercel
+  # But if you want it all on Render:
+  - type: web
+    name: aievollve-web
+    env: node
+    plan: free
+    buildCommand: cd frontend && npm install && npm run build
+    startCommand: cd frontend && npm start
+    envVars:
+      - key: NEXT_PUBLIC_API_BASE
+        fromService:
+            type: web
+            name: aievollve-brain
+            property: host

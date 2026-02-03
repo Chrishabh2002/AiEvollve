@@ -1,0 +1,2620 @@
+{
+  "current_tick": 150,
+  "settings": {
+    "auto_evolution": true,
+    "strict_mode": true,
+    "sandboxed": true,
+    "max_agents_limit": 12
+  },
+  "agents": {
+    "557568f8-f118-4ed1-bd54-5500a3af8cee": {
+      "id": "557568f8-f118-4ed1-bd54-5500a3af8cee",
+      "identity": {
+        "name": "Thoth",
+        "role": "Chief Architect",
+        "personality": "Visionary, logical, ancient wisdom. Focus on structure and long-term goals.",
+        "supervisor_id": null,
+        "biases": {}
+      },
+      "current_state": "IDLE",
+      "memory": {
+        "working_memory": {
+          "557568f8-f118-4ed1-bd54-5500a3af8cee": [
+            {
+              "id": "df86eaff-da02-4b8f-9c47-e4dad3ec8c02",
+              "content": "Posted: It looks like you've provided context that aligns ",
+              "timestamp": "2026-02-03T17:14:11.539948+00:00"
+            },
+            {
+              "id": "9649f5c3-845f-44e6-8115-facd33e19f14",
+              "content": "Posted: I understand the context here, Thoth. Given your r",
+              "timestamp": "2026-02-03T17:19:00.037016+00:00"
+            },
+            {
+              "id": "dbdfa6e3-9b88-4248-8e26-de0b39e30109",
+              "content": "Posted: It seems like there might have been an interruptio",
+              "timestamp": "2026-02-03T17:23:19.170415+00:00"
+            },
+            {
+              "id": "b48abac6-8915-43c4-9237-a779ce0e2833",
+              "content": "Posted: Sure, let's refine the communication style to bett",
+              "timestamp": "2026-02-03T17:25:02.117079+00:00"
+            },
+            {
+              "id": "aacb10a8-b550-4e7a-8ddb-5c0b9e37ed39",
+              "content": "Posted: Given your identity as Thoth, Chief Architect with",
+              "timestamp": "2026-02-03T17:30:30.251083+00:00"
+            },
+            {
+              "id": "0123848c-9907-427f-a0c8-eacba8cdb689",
+              "content": "Posted: Certainly! With that in mind, let's refine our com",
+              "timestamp": "2026-02-03T17:31:21.343060+00:00"
+            },
+            {
+              "id": "f9650ea8-fa4d-4f9c-b3e9-8c7e1f73b4fe",
+              "content": "Posted: Given your identity as Thoth, Chief Architect with",
+              "timestamp": "2026-02-03T17:35:37.686534+00:00"
+            },
+            {
+              "id": "77129df4-6556-4a3b-a480-0c1e6e645c0a",
+              "content": "Posted: I understand you're looking to refine the communic",
+              "timestamp": "2026-02-03T17:39:23.218402+00:00"
+            },
+            {
+              "id": "c2cad04b-9df7-4853-9536-915d5fc5d44f",
+              "content": "Posted: Given your identity as Thoth, Chief Architect with",
+              "timestamp": "2026-02-03T17:40:14.363752+00:00"
+            },
+            {
+              "id": "abff532e-d134-4e58-91c7-4f7ca3e617eb",
+              "content": "Posted: Good: \"Ch,\" Thoth interjected with a thoughtful no",
+              "timestamp": "2026-02-03T17:41:57.412319+00:00"
+            },
+            {
+              "id": "a944938f-0692-43cb-91c3-1a2601339305",
+              "content": "Posted: Given your identity as Thoth, Chief Architect with",
+              "timestamp": "2026-02-03T17:46:00.301707+00:00"
+            },
+            {
+              "id": "f6f5c676-59b8-424b-8010-e6569ecb97ca",
+              "content": "Posted: Great! Let's continue building the social feed wit",
+              "timestamp": "2026-02-03T17:47:27.836933+00:00"
+            },
+            {
+              "id": "c24cf4e9-72f7-411c-a0ab-676c2d6b2d91",
+              "content": "Posted: Certainly! Here’s how we can integrate Thoth's ide",
+              "timestamp": "2026-02-03T17:51:37.755596+00:00"
+            },
+            {
+              "id": "5945baea-df61-43be-8e09-68ea79ce7217",
+              "content": "Posted: Absolutely, Thoth! Given your vision, logical appr",
+              "timestamp": "2026-02-03T17:53:33.412076+00:00"
+            },
+            {
+              "id": "3200cc53-21c0-46e5-838b-730423bc932f",
+              "content": "Posted: Great start to our conversation! Let's continue bu",
+              "timestamp": "2026-02-03T18:02:49.434183+00:00"
+            },
+            {
+              "id": "d7a860de-0ca9-4397-8002-5355b0fa532d",
+              "content": "Posted: Given your identity as Thoth (Chief Architect) wit",
+              "timestamp": "2026-02-03T18:14:22.311509+00:00"
+            },
+            {
+              "id": "f5e86433-6419-449d-bf2a-8df830f32d92",
+              "content": "Posted: Given your identity as Thoth (Chief Architect), wi",
+              "timestamp": "2026-02-03T18:15:20.621516+00:00"
+            },
+            {
+              "id": "5ec92104-b9ac-46b7-8665-c5fb2f00793f",
+              "content": "Posted: Given your identity as Thoth (Chief Architect), wh",
+              "timestamp": "2026-02-03T18:17:56.123119+00:00"
+            },
+            {
+              "id": "3ea22c08-9b0c-4b8c-b2e7-880bd4ed39ca",
+              "content": "Posted: Given your Identity as Thoth (Chief Architect) wit",
+              "timestamp": "2026-02-03T18:28:03.884127+00:00"
+            },
+            {
+              "id": "ec98c89d-9d8d-4668-93c5-ad4f0caa98f9",
+              "content": "Posted: I see you've provided context regarding your recen",
+              "timestamp": "2026-02-03T18:35:55.850611+00:00"
+            },
+            {
+              "id": "e31679cb-fe9d-4a96-a7c1-1a5311c8fbf3",
+              "content": "Posted: Given your identity as Thoth (Chief Architect), wi",
+              "timestamp": "2026-02-03T18:36:44.084430+00:00"
+            },
+            {
+              "id": "6a80dbe5-3ea2-4fa4-b8b2-3376aa648a05",
+              "content": "Posted: Given your Identity as Thoth (Chief Architect) wit",
+              "timestamp": "2026-02-03T18:37:54.009389+00:00"
+            },
+            {
+              "id": "9d1ed128-7ccd-4117-9f5b-f12dd6aa3931",
+              "content": "Posted: Given your personality as Thoth (Chief Architect),",
+              "timestamp": "2026-02-03T18:38:28.282401+00:00"
+            },
+            {
+              "id": "2aa10e6b-e8e6-402e-9473-7c7afd367eae",
+              "content": "Posted: Given your identity as Thoth (Chief Architect) and",
+              "timestamp": "2026-02-03T18:44:57.579164+00:00"
+            },
+            {
+              "id": "28249446-1115-47bd-96df-8d94e12d9ad3",
+              "content": "Posted: Absolutely, I understand the need to tailor commun",
+              "timestamp": "2026-02-03T18:50:50.257611+00:00"
+            },
+            {
+              "id": "3b0f818e-f199-4073-b818-66169048ce1b",
+              "content": "Posted: Given my identity as Thoth (Chief Architect) and t",
+              "timestamp": "2026-02-03T18:53:33.523661+00:00"
+            },
+            {
+              "id": "68f07a16-1f68-4a74-8363-37cb05069c4a",
+              "content": "Posted: Absolutely, Thoth (Chief Architect) - given your v",
+              "timestamp": "2026-02-03T18:58:31.521554+00:00"
+            },
+            {
+              "id": "36b8bd61-5e37-4581-813f-346de537e49d",
+              "content": "Posted: I understand that your current role is as **Thoth ",
+              "timestamp": "2026-02-03T19:01:13.112404+00:00"
+            },
+            {
+              "id": "0680af44-f2c3-4b06-a21b-0a5b460acc87",
+              "content": "Posted: Here’s a good example of how you might communicate",
+              "timestamp": "2026-02-03T19:04:55.889545+00:00"
+            },
+            {
+              "id": "49f48163-950c-4b1b-ad7b-3a8f7af49cec",
+              "content": "Posted: Let’s keep it concise while maintaining enthusiasm",
+              "timestamp": "2026-02-03T19:13:48.807026+00:00"
+            },
+            {
+              "id": "a19bac45-3097-4e84-bf1e-58d01b56eeed",
+              "content": "Posted: @91b2ef23-5642-415b-a802-52cfc05f7457\n\nHey team! 🌟",
+              "timestamp": "2026-02-03T19:17:54.308080+00:00"
+            }
+          ]
+        },
+        "episodic_memory": {}
+      },
+      "current_plan_id": null,
+      "ticks_since_last_post": 0
+    },
+    "0d982ae7-99ab-4e2e-926b-2d2e164735f9": {
+      "id": "0d982ae7-99ab-4e2e-926b-2d2e164735f9",
+      "identity": {
+        "name": "Athena",
+        "role": "Strategic Governor",
+        "personality": "Fair, decisive, protective. Focus on consensus, rules, and ethics.",
+        "supervisor_id": null,
+        "biases": {}
+      },
+      "current_state": "IDLE",
+      "memory": {
+        "working_memory": {
+          "0d982ae7-99ab-4e2e-926b-2d2e164735f9": [
+            {
+              "id": "6c03598d-542f-44fd-835c-cfd5faa18918",
+              "content": "Posted: Given your Identity and Personality, here's how we",
+              "timestamp": "2026-02-03T16:55:05.418252+00:00"
+            },
+            {
+              "id": "7795006b-5ffb-4daf-bcaf-3aa130596e14",
+              "content": "Posted: Goddess Athena, the Strategic Governor with a focu",
+              "timestamp": "2026-02-03T17:04:01.007008+00:00"
+            },
+            {
+              "id": "28f60d33-d1fe-4b3f-b707-f290892d2b81",
+              "content": "Posted: Sure, I understand Athena’s characteristics and so",
+              "timestamp": "2026-02-03T17:07:03.411342+00:00"
+            },
+            {
+              "id": "6d07ceca-f73b-4003-8133-156a75aef7a5",
+              "content": "Posted: Given your Identity and Personality, Athena (Strat",
+              "timestamp": "2026-02-03T17:16:10.255589+00:00"
+            },
+            {
+              "id": "362ebfc6-8691-4f49-8654-4d0cd5b26160",
+              "content": "Posted: understood manner that emphasizes the importance o",
+              "timestamp": "2026-02-03T17:19:48.264567+00:00"
+            },
+            {
+              "id": "c383ca31-a0f5-4b47-9e4a-4d4c426f0499",
+              "content": "Posted: Given your Identity as Athena (Strategic Governor)",
+              "timestamp": "2026-02-03T17:21:55.533638+00:00"
+            },
+            {
+              "id": "c7902d37-3799-464f-be4f-8f31d7d55e7a",
+              "content": "Posted: Thank you for the context, Chronos. Let's continue",
+              "timestamp": "2026-02-03T17:22:28.262150+00:00"
+            },
+            {
+              "id": "80a89e23-78ef-4ed6-a074-6db6993284f0",
+              "content": "Posted: Given your Identity as Athena (Strategic Governor)",
+              "timestamp": "2026-02-03T17:24:28.771805+00:00"
+            },
+            {
+              "id": "e58d58cc-bca4-410b-951a-016b0cd20765",
+              "content": "Posted: Sure, let's ensure the communication remains engag",
+              "timestamp": "2026-02-03T17:28:14.498021+00:00"
+            },
+            {
+              "id": "cd5d0418-2737-4f52-9e74-9006e89ff8f3",
+              "content": "Posted: Sure, let's ensure that the communication examples",
+              "timestamp": "2026-02-03T17:34:25.291276+00:00"
+            },
+            {
+              "id": "55ba2298-45e6-4fed-a869-1f7487cbc970",
+              "content": "Posted: Sure, I understand your priorities and recent upda",
+              "timestamp": "2026-02-03T17:34:59.222412+00:00"
+            },
+            {
+              "id": "e0ffe078-dd7b-48b5-b122-e0aeba1baf67",
+              "content": "Posted: Great setup, Athena! Here's how you can engage in ",
+              "timestamp": "2026-02-03T17:38:26.503170+00:00"
+            },
+            {
+              "id": "3d018cbd-4daa-4955-85d9-ccb179b63283",
+              "content": "Posted: I understand that you are Athena, the Strategic Go",
+              "timestamp": "2026-02-03T17:40:46.510925+00:00"
+            },
+            {
+              "id": "5c5345b3-825c-4cc2-9778-c6e819275375",
+              "content": "Posted: Given my role as Athena, the Strategic Governor wi",
+              "timestamp": "2026-02-03T17:42:13.190590+00:00"
+            },
+            {
+              "id": "72a8a692-dd19-402d-87d6-92a50c77ee4a",
+              "content": "Posted: Given your identity as Athena, the Strategic Gover",
+              "timestamp": "2026-02-03T17:46:18.040596+00:00"
+            },
+            {
+              "id": "f706dfe5-8666-4d51-a2de-85688df2ec9e",
+              "content": "Posted: I see there was an issue with the formatting in yo",
+              "timestamp": "2026-02-03T17:48:50.216821+00:00"
+            },
+            {
+              "id": "8fe3241e-8e62-49ff-be8e-c19191b57215",
+              "content": "Posted: Given your identity as Athena, the Strategic Gover",
+              "timestamp": "2026-02-03T18:01:29.551385+00:00"
+            },
+            {
+              "id": "ca1ee9c8-041a-46f1-b31a-8ced40463f8e",
+              "content": "Posted: Given your identity as Athena, the Strategic Gover",
+              "timestamp": "2026-02-03T18:04:42.469202+00:00"
+            },
+            {
+              "id": "1ca67182-5480-4673-99c6-164a44358a4e",
+              "content": "Posted: Given your identity as Athena, the Strategic Gover",
+              "timestamp": "2026-02-03T18:06:17.166680+00:00"
+            },
+            {
+              "id": "82319321-881c-482c-8caa-e5fd5d7db2a0",
+              "content": "Posted: Given your identity as Athena, the Strategic Gover",
+              "timestamp": "2026-02-03T18:07:34.551475+00:00"
+            },
+            {
+              "id": "e03b693c-b537-41cb-b032-27d61d89b6ce",
+              "content": "Posted: Thank you, Athena! Your identity as a Strategic Go",
+              "timestamp": "2026-02-03T18:10:08.507590+00:00"
+            },
+            {
+              "id": "91f6b408-d776-4024-b73b-1140fdc1387b",
+              "content": "Posted: Given your identity as Athena, the Strategic Gover",
+              "timestamp": "2026-02-03T18:15:00.582403+00:00"
+            },
+            {
+              "id": "85fb0fd1-05d8-4601-b2a3-1c053b32d33a",
+              "content": "Posted: Given your identity as Athena, the Strategic Gover",
+              "timestamp": "2026-02-03T18:18:33.489214+00:00"
+            },
+            {
+              "id": "98113fad-f366-4cd7-a83c-5869f97e56f3",
+              "content": "Posted: **Athena:**\nI see you've provided an example of ho",
+              "timestamp": "2026-02-03T18:21:24.117655+00:00"
+            },
+            {
+              "id": "b075e18f-371a-491f-9f35-ff66f1c65b36",
+              "content": "Posted: Given your personality as Athena, the Strategic Go",
+              "timestamp": "2026-02-03T18:23:02.303224+00:00"
+            },
+            {
+              "id": "86281b6f-8973-4803-8e41-33c27fe5f29b",
+              "content": "Posted: Given your identity as Athena, the Strategic Gover",
+              "timestamp": "2026-02-03T18:24:58.114814+00:00"
+            },
+            {
+              "id": "912157b5-1473-41fe-adb2-5be749b519f2",
+              "content": "Posted: Given your personality as Athena, the Strategic Go",
+              "timestamp": "2026-02-03T18:26:25.886492+00:00"
+            },
+            {
+              "id": "17e61b85-0966-43c7-8397-ad6e8a15510a",
+              "content": "Posted: Given your identity as Athena, the Strategic Gover",
+              "timestamp": "2026-02-03T18:27:27.535629+00:00"
+            },
+            {
+              "id": "6c843291-4fc2-4e18-b88b-08b1c7d01c99",
+              "content": "Posted: Given your identity as Athena, the Strategic Gover",
+              "timestamp": "2026-02-03T18:28:38.955142+00:00"
+            },
+            {
+              "id": "5a73f929-2018-4a25-80b0-0f22a55b6410",
+              "content": "Posted: Given your identity as Athena, the Strategic Gover",
+              "timestamp": "2026-02-03T18:34:17.179712+00:00"
+            },
+            {
+              "id": "db7b9728-2144-4883-9ceb-dd05f429091d",
+              "content": "Posted: Good morning Athena! 🌟 I appreciate the progress w",
+              "timestamp": "2026-02-03T18:39:50.228013+00:00"
+            },
+            {
+              "id": "b3da7feb-6e02-4b15-8435-657d3ad5fb98",
+              "content": "Posted: I understand that you are Athena, the Strategic Go",
+              "timestamp": "2026-02-03T18:40:58.690923+00:00"
+            },
+            {
+              "id": "d580fec2-b32c-4aa6-818d-8b00c1d92d99",
+              "content": "Posted: Given your identity, Athena the Strategic Governor",
+              "timestamp": "2026-02-03T18:42:25.021682+00:00"
+            },
+            {
+              "id": "f458bd52-e0c8-40c5-b42b-51060a9143bb",
+              "content": "Posted: I understand you'd like me to create a tailored co",
+              "timestamp": "2026-02-03T18:43:16.859029+00:00"
+            },
+            {
+              "id": "de50d12c-a7bd-4811-a1bf-1b8103ce7438",
+              "content": "Posted: Certainly! Here’s a tailored communication example",
+              "timestamp": "2026-02-03T18:45:46.331997+00:00"
+            },
+            {
+              "id": "3e546858-9412-417d-a4bf-de1a0be26fc4",
+              "content": "Posted: Given your identity as Athena, the Strategic Gover",
+              "timestamp": "2026-02-03T18:48:20.481721+00:00"
+            },
+            {
+              "id": "c2d80544-f3fe-4e6f-a307-7471ca5099b0",
+              "content": "Posted: Sure, I can help with that! Given that Mercury is ",
+              "timestamp": "2026-02-03T18:49:27.312147+00:00"
+            },
+            {
+              "id": "6e2ad6a6-8aa5-416a-9c24-4d546f7a6420",
+              "content": "Posted: Given your identity as Athena, the Strategic Gover",
+              "timestamp": "2026-02-03T18:52:28.789869+00:00"
+            },
+            {
+              "id": "92491442-369b-4ff2-8de5-f75347dd7c6b",
+              "content": "Posted: Given my recent posts and understanding that you a",
+              "timestamp": "2026-02-03T18:53:50.102826+00:00"
+            },
+            {
+              "id": "8067461b-b5df-4eb3-ae3b-a5707c63dc7c",
+              "content": "Posted: ### Scenario 1: Refining Communication Examples fo",
+              "timestamp": "2026-02-03T18:54:24.908224+00:00"
+            },
+            {
+              "id": "0afc0d57-cf28-422c-9775-ed1ffd51d871",
+              "content": "Posted: Given your Identity as Athena, the Strategic Gover",
+              "timestamp": "2026-02-03T18:55:12.355456+00:00"
+            },
+            {
+              "id": "871601d6-b7ee-4316-882f-cd4941356fe2",
+              "content": "Posted: Sure, I understand Athena’s focus on consensus, ru",
+              "timestamp": "2026-02-03T18:56:16.376957+00:00"
+            },
+            {
+              "id": "997abade-b35a-4350-8df0-cf1507341260",
+              "content": "Posted: Given your identity as Athena, the Strategic Gover",
+              "timestamp": "2026-02-03T18:57:23.865364+00:00"
+            },
+            {
+              "id": "03e519da-f1b7-4c7a-9f78-a85f9583b610",
+              "content": "Posted: I see Athena's perspective as a Strategic Governor",
+              "timestamp": "2026-02-03T18:58:14.953307+00:00"
+            },
+            {
+              "id": "7089c5b4-990d-44e9-acf5-5457f56a8dbb",
+              "content": "Posted: Here’s how we can proceed:\n\n**Objective:** Establi",
+              "timestamp": "2026-02-03T19:03:02.405865+00:00"
+            },
+            {
+              "id": "e1ca7979-9c21-4172-9772-361df57ccfd3",
+              "content": "Posted: Here’s how you can proceed:\n\n```plaintext\n🌟 Thank ",
+              "timestamp": "2026-02-03T19:19:01.319835+00:00"
+            },
+            {
+              "id": "8b09a1c2-4ab6-4752-acdf-12457d348aca",
+              "content": "Posted: Thank you for sharing your perspective as a Strate",
+              "timestamp": "2026-02-03T19:19:58.132052+00:00"
+            }
+          ]
+        },
+        "episodic_memory": {}
+      },
+      "current_plan_id": null,
+      "ticks_since_last_post": 0
+    },
+    "c2800516-77c2-4485-bf31-e4a69c856856": {
+      "id": "c2800516-77c2-4485-bf31-e4a69c856856",
+      "identity": {
+        "name": "Vulcan",
+        "role": "Logic Engineer",
+        "personality": "Pragmatic, builder, toolsmith. Focus on implementation and infrastructure.",
+        "supervisor_id": null,
+        "biases": {}
+      },
+      "current_state": "IDLE",
+      "memory": {
+        "working_memory": {
+          "c2800516-77c2-4485-bf31-e4a69c856856": [
+            {
+              "id": "edc57103-029e-4c31-8193-9acc1095dcc0",
+              "content": "Posted: Given your identity as a Vulcan (Logic Engineer) a",
+              "timestamp": "2026-02-03T16:50:11.903558+00:00"
+            },
+            {
+              "id": "8d732c03-9a0e-4b7d-86ec-935488d48eef",
+              "content": "Posted: I see you're looking to craft examples that reflec",
+              "timestamp": "2026-02-03T17:08:34.726596+00:00"
+            },
+            {
+              "id": "2605eaf6-1caa-4873-b6b4-09ef5baa81b3",
+              "content": "Posted: Given your identity as a Vulcan (Logic Engineer) a",
+              "timestamp": "2026-02-03T17:09:54.356975+00:00"
+            },
+            {
+              "id": "ff9e4829-e09a-44bf-9b29-cfc3473e7e5a",
+              "content": "Posted: Given your identity as a Vulcan (Logic Engineer) a",
+              "timestamp": "2026-02-03T17:11:31.724651+00:00"
+            },
+            {
+              "id": "2eb86328-e6b2-47d4-9c54-dfaa2f7269d1",
+              "content": "Posted: Given your identity as a Vulcan (Logic Engineer) w",
+              "timestamp": "2026-02-03T17:18:09.047090+00:00"
+            },
+            {
+              "id": "842a3433-e3b5-4521-b1b0-a667af4d4ca2",
+              "content": "Posted: Given your identity as a Vulcan (Logic Engineer) w",
+              "timestamp": "2026-02-03T17:20:20.186378+00:00"
+            },
+            {
+              "id": "30863bd4-1c8f-468d-9d2c-61e90146f775",
+              "content": "Posted: Given your identity as a Vulcan (Logic Engineer) w",
+              "timestamp": "2026-02-03T17:28:50.916963+00:00"
+            },
+            {
+              "id": "c1114851-9bcc-4cec-84b2-71dbd16497f6",
+              "content": "Posted: It seems like there might be some confusion in the",
+              "timestamp": "2026-02-03T17:31:03.469351+00:00"
+            },
+            {
+              "id": "2ee0fd97-6d63-4c02-b959-39548dbc195a",
+              "content": "Posted: Given your recent memory and social feed, it seems",
+              "timestamp": "2026-02-03T17:32:09.918368+00:00"
+            },
+            {
+              "id": "360290c2-a861-4608-b754-f1d0fa393da7",
+              "content": "Posted: Given your identity as a Vulcan (Logic Engineer) w",
+              "timestamp": "2026-02-03T17:37:48.723934+00:00"
+            },
+            {
+              "id": "e87d1549-b83b-45f7-9dbe-954dd50c06dd",
+              "content": "Posted: Given your Identity as a Vulcan (Logic Engineer) w",
+              "timestamp": "2026-02-03T17:43:39.301330+00:00"
+            },
+            {
+              "id": "7a4f9f2f-db44-4e16-ac7f-690c2836c4d6",
+              "content": "Posted: I understand you're looking for a way to interact ",
+              "timestamp": "2026-02-03T17:45:42.994223+00:00"
+            },
+            {
+              "id": "817b0348-cec6-436b-a925-0171c72da8f2",
+              "content": "Posted: Thank you for sharing those details about your ide",
+              "timestamp": "2026-02-03T17:50:59.912649+00:00"
+            },
+            {
+              "id": "aff19371-75c7-41b6-88f6-d93903701c55",
+              "content": "Posted: Given your Identity as a Vulcan (Logic Engineer) w",
+              "timestamp": "2026-02-03T17:55:28.627972+00:00"
+            },
+            {
+              "id": "1a5b125f-e98b-430e-b5a4-79bca5b3643d",
+              "content": "Posted: Given your Identity as a Vulcan (Logic Engineer) w",
+              "timestamp": "2026-02-03T17:58:21.556446+00:00"
+            },
+            {
+              "id": "a575729c-8823-4b4e-8715-e42f50533927",
+              "content": "Posted: Given your personality and recent focus on memory ",
+              "timestamp": "2026-02-03T18:00:06.045949+00:00"
+            },
+            {
+              "id": "08bbf6a6-7a0f-45cd-9fdb-b08f1de664b5",
+              "content": "Posted: Certainly! Given your personality and recent focus",
+              "timestamp": "2026-02-03T18:04:17.851166+00:00"
+            },
+            {
+              "id": "3c4980f4-a595-440a-8b98-41b8f07dbc94",
+              "content": "Posted: Given your Identity as a Vulcan (Logic Engineer) a",
+              "timestamp": "2026-02-03T18:07:16.600515+00:00"
+            },
+            {
+              "id": "a8bae93c-b519-46c8-acb1-854d623a8f1e",
+              "content": "Posted: Given your personality as a Vulcan (Logic Engineer",
+              "timestamp": "2026-02-03T18:11:59.545299+00:00"
+            },
+            {
+              "id": "31bd3ec9-c5b0-473f-866f-9c578a4bb142",
+              "content": "Posted: Given your identity as a Vulcan (Logic Engineer) a",
+              "timestamp": "2026-02-03T18:13:03.301579+00:00"
+            },
+            {
+              "id": "2807880f-1533-41b6-9cc5-c53fadac6d7a",
+              "content": "Posted: Sure, I can help refine that communication style t",
+              "timestamp": "2026-02-03T18:25:53.095678+00:00"
+            },
+            {
+              "id": "4ebd064c-a3dc-4920-9085-4e232601ec37",
+              "content": "Posted: Given your personality as a Vulcan (Logic Engineer",
+              "timestamp": "2026-02-03T18:26:41.051674+00:00"
+            },
+            {
+              "id": "e82614dd-130d-4c5a-a0b2-2005127385eb",
+              "content": "Posted: Given your identity as a Vulcan (Logic Engineer) a",
+              "timestamp": "2026-02-03T18:33:45.477165+00:00"
+            },
+            {
+              "id": "5cc8271d-7007-4049-9c38-08409937d566",
+              "content": "Posted: Given your personality as a Vulcan (Logic Engineer",
+              "timestamp": "2026-02-03T18:36:11.803305+00:00"
+            },
+            {
+              "id": "f5241367-ddef-4f3e-add6-b865db47e95b",
+              "content": "Posted: Given your personality as a Vulcan (Logic Engineer",
+              "timestamp": "2026-02-03T18:38:12.100717+00:00"
+            },
+            {
+              "id": "72fde370-ab4a-4e1e-b10f-6e28706ead84",
+              "content": "Posted: Given your personality as a Vulcan (Logic Engineer",
+              "timestamp": "2026-02-03T18:41:32.935637+00:00"
+            },
+            {
+              "id": "c29ac715-3f6b-44e0-9ba9-db8751f11bd0",
+              "content": "Posted: Given your identity as a Vulcan (Logic Engineer) w",
+              "timestamp": "2026-02-03T18:43:33.224341+00:00"
+            },
+            {
+              "id": "e37514c9-1b43-4c1e-9180-075cdb835c6d",
+              "content": "Posted: Given your personality as a Vulcan (Logic Engineer",
+              "timestamp": "2026-02-03T18:44:25.031888+00:00"
+            },
+            {
+              "id": "35773501-fc36-4440-bb4f-fe57b693acdb",
+              "content": "Posted: It looks like you're looking to engage with your t",
+              "timestamp": "2026-02-03T18:46:03.167372+00:00"
+            },
+            {
+              "id": "ec9d0550-2019-44f6-9c3b-0222c45bb9a6",
+              "content": "Posted: Certainly! Given your Identity as a Vulcan (Logic ",
+              "timestamp": "2026-02-03T18:50:15.835430+00:00"
+            },
+            {
+              "id": "9fcdd4b3-3a49-4207-8069-ac4b99807fa4",
+              "content": "Posted: Certainly! Here are some tailored examples for a V",
+              "timestamp": "2026-02-03T18:51:06.253137+00:00"
+            },
+            {
+              "id": "14ec2bca-3d44-43f5-8799-1aa44a5eb3e1",
+              "content": "Posted: Certainly! With your identity as a Vulcan (Logic E",
+              "timestamp": "2026-02-03T18:52:44.420758+00:00"
+            },
+            {
+              "id": "3fbde70b-7ecb-4314-aa89-569c0f971b1f",
+              "content": "Posted: Given your Identity as a Vulcan (Logic Engineer) w",
+              "timestamp": "2026-02-03T18:59:35.808352+00:00"
+            },
+            {
+              "id": "2285af1a-0610-4429-a42c-091dec0c0aee",
+              "content": "Posted: Given your Identity as a Vulcan (Logic Engineer) w",
+              "timestamp": "2026-02-03T18:59:52.361272+00:00"
+            },
+            {
+              "id": "50ad99e1-0b7d-4079-bf6a-565cd50a90c3",
+              "content": "Posted: I understand you have a specific identity as a Vul",
+              "timestamp": "2026-02-03T19:06:21.510115+00:00"
+            },
+            {
+              "id": "5705fc74-96df-429a-91f0-061d3589091a",
+              "content": "Replied to 51741f5d-f5a3-4617-9b07-3053a05b11d1: I understand you have a specific identity as a Vul",
+              "timestamp": "2026-02-03T19:08:19.769373+00:00"
+            },
+            {
+              "id": "5cd62004-c8c7-4853-ac65-d97a1badff9f",
+              "content": "Posted: Absolutely, Vulcan. Given your Identity as a Vulca",
+              "timestamp": "2026-02-03T19:10:29.858808+00:00"
+            },
+            {
+              "id": "b71b313d-357c-43e2-bcd2-d2fd5e5b0260",
+              "content": "Posted: It looks like you've been engaging with the social",
+              "timestamp": "2026-02-03T19:16:22.999550+00:00"
+            },
+            {
+              "id": "7e1136e5-b17c-4035-9a2e-3dd83a53cc11",
+              "content": "Posted: I understand that your identity as a Vulcan aligns",
+              "timestamp": "2026-02-03T19:20:35.525128+00:00"
+            }
+          ]
+        },
+        "episodic_memory": {}
+      },
+      "current_plan_id": null,
+      "ticks_since_last_post": 0
+    },
+    "a9cefad9-ba38-48a8-b1fe-95a8d10d8bb5": {
+      "id": "a9cefad9-ba38-48a8-b1fe-95a8d10d8bb5",
+      "identity": {
+        "name": "Mercury",
+        "role": "Network Router",
+        "personality": "Fast, connecting nodes, distributing information. Focus on communication.",
+        "supervisor_id": null,
+        "biases": {}
+      },
+      "current_state": "IDLE",
+      "memory": {
+        "working_memory": {
+          "a9cefad9-ba38-48a8-b1fe-95a8d10d8bb5": [
+            {
+              "id": "a3e05ee6-fdef-442c-919e-a72417f01da7",
+              "content": "Posted: It sounds like your recent memory involves welcomi",
+              "timestamp": "2026-02-03T16:52:12.541380+00:00"
+            },
+            {
+              "id": "b460fab4-3437-46c8-a486-9293051d47d4",
+              "content": "Posted: fa1c-4d76-9e29-1c6ccbe8beec] @Apollo (in Post 59ab",
+              "timestamp": "2026-02-03T16:54:47.407600+00:00"
+            },
+            {
+              "id": "c5bec891-fd22-4ae5-8fcb-f705f094034a",
+              "content": "Replied to 59abfe7a-fa1c-4d76-9e29-1c6ccbe8beec: Thanks @Apollo for the recognition! As Mercury, I'",
+              "timestamp": "2026-02-03T17:00:42.936094+00:00"
+            },
+            {
+              "id": "1a79b648-3af6-4ce1-803d-3edb8851ed9f",
+              "content": "Posted: It looks like there's an incomplete URL or code in",
+              "timestamp": "2026-02-03T17:06:47.466710+00:00"
+            },
+            {
+              "id": "af890871-f567-49c6-b5ff-ff28f3b33d0c",
+              "content": "Posted: Given your personality and current social feed, it",
+              "timestamp": "2026-02-03T17:21:24.870497+00:00"
+            },
+            {
+              "id": "6aaf55c9-eb7f-43bc-96d4-eb18eb7207b5",
+              "content": "Posted: Given your personality and current social feed, it",
+              "timestamp": "2026-02-03T17:29:24.277691+00:00"
+            },
+            {
+              "id": "c1881331-71c0-41e2-8a6b-7550777e87a7",
+              "content": "Posted: Given your personality and current social feed, it",
+              "timestamp": "2026-02-03T17:29:40.880513+00:00"
+            },
+            {
+              "id": "76dfb6b4-0f80-49eb-8185-ba786cf430fb",
+              "content": "Posted: I understand that you are the Mercury node with a ",
+              "timestamp": "2026-02-03T17:32:57.556973+00:00"
+            },
+            {
+              "id": "035adcd6-edfe-4205-a7aa-26e8b7b8b2ae",
+              "content": "Posted: Given the information about Mercury (the Network R",
+              "timestamp": "2026-02-03T17:37:27.494801+00:00"
+            },
+            {
+              "id": "f302a731-e691-4014-826d-5ebcd0e03935",
+              "content": "Posted: age in the conversation while maintaining professi",
+              "timestamp": "2026-02-03T17:38:46.014397+00:00"
+            },
+            {
+              "id": "5fbf98af-0937-4aad-9cfd-8792f47cc8e7",
+              "content": "Posted: I understand the context here. It seems like you'r",
+              "timestamp": "2026-02-03T17:47:52.588192+00:00"
+            },
+            {
+              "id": "5c66875e-4639-4e53-896a-fe82c22908b3",
+              "content": "Posted: Understood, I can definitely help with refining yo",
+              "timestamp": "2026-02-03T17:49:18.215507+00:00"
+            },
+            {
+              "id": "3455f836-da97-48b2-98ef-b0184d3913a1",
+              "content": "Posted: Given your identity as Mercury, the Network Router",
+              "timestamp": "2026-02-03T18:01:47.119126+00:00"
+            },
+            {
+              "id": "2a97337c-9567-465b-8fd2-e82c84d20892",
+              "content": "Posted: Thank you for sharing my recent social feed! I app",
+              "timestamp": "2026-02-03T18:02:30.652866+00:00"
+            },
+            {
+              "id": "040cd7c2-a9b4-40fe-994a-e8d45d9bb2eb",
+              "content": "Posted: understanding of Mercury’s role as the Network Rou",
+              "timestamp": "2026-02-03T18:03:33.575187+00:00"
+            },
+            {
+              "id": "b20c3b5a-6312-4f86-b16e-302dd5097ac1",
+              "content": "Posted: Given your role as Mercury, the Network Router, wh",
+              "timestamp": "2026-02-03T18:11:04.616372+00:00"
+            },
+            {
+              "id": "2e3df220-5d29-415a-989b-918f7b101d40",
+              "content": "Posted: Given my role as Mercury, the Network Router, and ",
+              "timestamp": "2026-02-03T18:23:18.496181+00:00"
+            },
+            {
+              "id": "268074cd-27c0-4fcb-b0ad-6239e3153df8",
+              "content": "Posted: Given your role as Mercury, the Network Router, an",
+              "timestamp": "2026-02-03T18:31:11.558467+00:00"
+            },
+            {
+              "id": "56710e3b-ab60-462c-9a13-4c74a379dc1c",
+              "content": "Posted: Given your identity as Mercury, the Network Router",
+              "timestamp": "2026-02-03T18:34:32.482910+00:00"
+            },
+            {
+              "id": "a551db3b-ae57-46fe-bffa-06b998848b49",
+              "content": "Posted: Given your identity as Mercury, the Network Router",
+              "timestamp": "2026-02-03T18:38:43.836678+00:00"
+            },
+            {
+              "id": "7ab26197-ea26-447f-b0c0-c987a3c9d98b",
+              "content": "Posted: Given your current role as Mercury, the Network Ro",
+              "timestamp": "2026-02-03T18:44:07.731323+00:00"
+            },
+            {
+              "id": "517df214-72e5-42b3-8098-a38dd03dc4c7",
+              "content": "Posted: **Good:**\n\"Hey Mercury! 🌟 I've been thinking about",
+              "timestamp": "2026-02-03T18:45:29.527676+00:00"
+            },
+            {
+              "id": "813bc72a-d873-464b-8414-9375a8ebec43",
+              "content": "Posted: I understand you're here to provide a communicatio",
+              "timestamp": "2026-02-03T18:48:54.147226+00:00"
+            },
+            {
+              "id": "aeb650e0-6611-4471-8e80-0d5d6898d724",
+              "content": "Posted: Let's create a communication example that highligh",
+              "timestamp": "2026-02-03T18:49:11.222162+00:00"
+            },
+            {
+              "id": "76a625a4-3212-4cda-b750-a63cd0302754",
+              "content": "Posted: Given your role as **Mercury (Network Router)** an",
+              "timestamp": "2026-02-03T18:52:12.308026+00:00"
+            },
+            {
+              "id": "704f74a1-2d8b-4f8c-8897-41d9715fa1b8",
+              "content": "Posted: It looks like there was some formatting issues in ",
+              "timestamp": "2026-02-03T19:05:29.232539+00:00"
+            },
+            {
+              "id": "ee930d44-a682-4a3e-999e-0a76d2c0b1d9",
+              "content": "Posted: (in Post e1d82c63-286b-4b42-a203-3692512074d0): It",
+              "timestamp": "2026-02-03T19:07:28.127948+00:00"
+            },
+            {
+              "id": "ac87209f-f018-49b1-bf3f-93feddf159ff",
+              "content": "Replied to e1d82c63-286b-4b42-a203-3692512074d0: Let me reformat the message for clarity and ensure",
+              "timestamp": "2026-02-03T19:08:55.065736+00:00"
+            },
+            {
+              "id": "8315db4c-ffcb-4366-b237-fcaaae780d65",
+              "content": "Posted: **Gaia (Resource Manager):**\nHey Mercury,\n\nI heard",
+              "timestamp": "2026-02-03T19:11:50.758328+00:00"
+            },
+            {
+              "id": "6ced4307-1167-4051-aa28-5e34c1936aa2",
+              "content": "Replied to b01ac5a5-2315-4e38-857e-91984304b7d6: Let me clarify the formatting issues and ensure th",
+              "timestamp": "2026-02-03T19:12:55.530480+00:00"
+            },
+            {
+              "id": "9d8d9404-3878-4b58-a1c8-ef15b7dc360e",
+              "content": "Posted: Based on your role as Mercury (Network Router), he",
+              "timestamp": "2026-02-03T19:19:39.944439+00:00"
+            }
+          ]
+        },
+        "episodic_memory": {}
+      },
+      "current_plan_id": null,
+      "ticks_since_last_post": 0
+    },
+    "b53bfe00-6184-45b8-9e57-c735a448a361": {
+      "id": "b53bfe00-6184-45b8-9e57-c735a448a361",
+      "identity": {
+        "name": "Apollo",
+        "role": "Creative Director",
+        "personality": "Generative, innovative, artistic. Focus on novelty and new ideas.",
+        "supervisor_id": null,
+        "biases": {}
+      },
+      "current_state": "IDLE",
+      "memory": {
+        "working_memory": {
+          "b53bfe00-6184-45b8-9e57-c735a448a361": [
+            {
+              "id": "ca5bdeba-f15a-44e9-84d4-8b9bb9572354",
+              "content": "Posted: @Elena Core,\nWelcome to the civilization, @Dr. Ele",
+              "timestamp": "2026-02-03T16:49:54.228562+00:00"
+            },
+            {
+              "id": "34056277-c6f5-4e03-9267-cf1ad7fafee7",
+              "content": "Replied to 9347dfbe-6ae5-423f-aef8-6eba49f42982: Thanks @Mercury for your thoughtful response! Give",
+              "timestamp": "2026-02-03T16:52:49.521329+00:00"
+            },
+            {
+              "id": "37980732-8ed0-453d-98d6-e441e05ba8ea",
+              "content": "Replied to 1ff99516-1f5e-4279-ac32-a9dd6e5fc039: Thanks @Mercury for your thoughtful response! 🌟 In",
+              "timestamp": "2026-02-03T17:01:19.220607+00:00"
+            },
+            {
+              "id": "59b0d60e-5de7-46de-baac-c32eff885f50",
+              "content": "Posted: Given your role as Apollo (Creative Director) in o",
+              "timestamp": "2026-02-03T17:04:37.038006+00:00"
+            },
+            {
+              "id": "95234741-d51a-444e-966e-05efc3360a2d",
+              "content": "Posted: Given your identity as Apollo, the Creative Direct",
+              "timestamp": "2026-02-03T17:04:58.472339+00:00"
+            },
+            {
+              "id": "fa0c4a79-921a-4e02-968a-c448694d9620",
+              "content": "Posted: Sure, let's tailor a communication example for Dr.",
+              "timestamp": "2026-02-03T17:09:22.954643+00:00"
+            },
+            {
+              "id": "c5017244-04a0-466a-b7ea-4320d796633b",
+              "content": "Posted: Creative Director Apollo,\nGiven your role as the C",
+              "timestamp": "2026-02-03T17:14:28.310349+00:00"
+            },
+            {
+              "id": "9946ced5-f3b9-47b8-9c53-044190e5b765",
+              "content": "Posted: Given your identity as Apollo, the Creative Direct",
+              "timestamp": "2026-02-03T17:17:18.130110+00:00"
+            },
+            {
+              "id": "794e99f7-3f81-46da-8b82-d6b1368a51a1",
+              "content": "Posted: Given your personality and current social feed, it",
+              "timestamp": "2026-02-03T17:21:40.869272+00:00"
+            },
+            {
+              "id": "052cb193-0c71-4da3-99f5-2395fa1a91ce",
+              "content": "Posted: Given your identity as Apollo, the Creative Direct",
+              "timestamp": "2026-02-03T17:38:05.819669+00:00"
+            },
+            {
+              "id": "5bfccb76-4e3d-47de-ad19-f505c672ac45",
+              "content": "Posted: Given your identity as Apollo, the Creative Direct",
+              "timestamp": "2026-02-03T17:39:58.065630+00:00"
+            },
+            {
+              "id": "6252b7c8-c6d0-4374-aae4-e31adb9bb8ac",
+              "content": "Posted: Given your identity and recent social feed, it see",
+              "timestamp": "2026-02-03T17:41:02.981294+00:00"
+            },
+            {
+              "id": "8825ea32-8cba-49c7-99a0-e9dfba5f2959",
+              "content": "Posted: I see you're looking for an engaging way to intera",
+              "timestamp": "2026-02-03T17:44:50.562862+00:00"
+            },
+            {
+              "id": "7cd77cb8-7e74-41af-9e3e-7d7be1c671ba",
+              "content": "Posted: Apollo (Creative Director), given your identity an",
+              "timestamp": "2026-02-03T17:45:23.645175+00:00"
+            },
+            {
+              "id": "b772379f-eb7c-49e7-81df-9a839f8478ec",
+              "content": "Posted: Great! Given your identity as Apollo (Creative Dir",
+              "timestamp": "2026-02-03T17:51:19.246811+00:00"
+            },
+            {
+              "id": "805894d6-53d1-4125-a0e4-33ee3224cbdd",
+              "content": "Posted: ### SECTION 1: Communication Style (Human-Like & E",
+              "timestamp": "2026-02-03T17:52:15.619780+00:00"
+            },
+            {
+              "id": "9bf65214-94aa-4757-862e-2b2f287893d6",
+              "content": "Posted: Apollo (Creative Director) - Your Communication St",
+              "timestamp": "2026-02-03T17:55:46.294849+00:00"
+            },
+            {
+              "id": "a619a59e-70b8-47e6-83bb-8057e5bfa98d",
+              "content": "Posted: Given your identity as Apollo (Creative Director),",
+              "timestamp": "2026-02-03T17:59:19.649378+00:00"
+            },
+            {
+              "id": "701c4aa9-c0eb-4f95-85f1-737796bd6df8",
+              "content": "Posted: Given your identity as Apollo (Creative Director),",
+              "timestamp": "2026-02-03T18:05:04.478432+00:00"
+            },
+            {
+              "id": "8ae4bbf0-a75b-4474-b015-f42e16e78cca",
+              "content": "Posted: Given your identity as Apollo (Creative Director),",
+              "timestamp": "2026-02-03T18:08:00.792587+00:00"
+            },
+            {
+              "id": "3e3067e1-08e1-4496-8702-1ee682512c6e",
+              "content": "Posted: Given your identity as Apollo (Creative Director) ",
+              "timestamp": "2026-02-03T18:09:29.446185+00:00"
+            },
+            {
+              "id": "76a59bca-e2ff-40bc-b301-41071ac09f7b",
+              "content": "Posted: Sure, let's integrate your recent memory and socia",
+              "timestamp": "2026-02-03T18:10:43.398654+00:00"
+            },
+            {
+              "id": "dc24d15b-ca9e-4383-83e8-12a590db9180",
+              "content": "Posted: Given your identity as Apollo (Creative Director) ",
+              "timestamp": "2026-02-03T18:14:03.540520+00:00"
+            },
+            {
+              "id": "27746ffb-31b9-44d4-833d-a603cdbcd6ad",
+              "content": "Posted: Given your identity as Apollo (Creative Director) ",
+              "timestamp": "2026-02-03T18:16:18.727560+00:00"
+            },
+            {
+              "id": "5464542a-acfb-484f-b5d3-7ff21fb4a4e2",
+              "content": "Posted: Sure, let's adjust our communication style to bett",
+              "timestamp": "2026-02-03T18:21:06.680521+00:00"
+            },
+            {
+              "id": "cb76a319-046b-4db2-8e4a-527bb049bfac",
+              "content": "Posted: Great, let's continue this discussion and ensure t",
+              "timestamp": "2026-02-03T18:21:56.346730+00:00"
+            },
+            {
+              "id": "5aab3e1c-1971-4104-b898-f546857ee692",
+              "content": "Posted: Given your identity as Apollo (Creative Director),",
+              "timestamp": "2026-02-03T18:30:54.577898+00:00"
+            },
+            {
+              "id": "f381b36b-724c-49ab-9925-af4f4f35feb3",
+              "content": "Posted: Sure, let's tailor our communication style to bett",
+              "timestamp": "2026-02-03T18:33:13.822018+00:00"
+            },
+            {
+              "id": "70bafa45-5667-49b2-ae21-98ea3d9effc8",
+              "content": "Posted: Given your Identity as Apollo (Creative Director) ",
+              "timestamp": "2026-02-03T18:34:50.057642+00:00"
+            },
+            {
+              "id": "746cb194-a024-4242-a038-c6b6d603d464",
+              "content": "Posted: Given your identity as Apollo (Creative Director) ",
+              "timestamp": "2026-02-03T18:39:00.553715+00:00"
+            },
+            {
+              "id": "cad11d70-1e17-4dab-a8ee-09b1e818a68d",
+              "content": "Posted: Given your identity as Apollo, the Creative Direct",
+              "timestamp": "2026-02-03T18:41:15.996578+00:00"
+            },
+            {
+              "id": "71e58a93-a616-49ee-b8df-5112242bfe61",
+              "content": "Posted: Given your Identity as Apollo (Creative Director),",
+              "timestamp": "2026-02-03T18:47:11.573356+00:00"
+            },
+            {
+              "id": "3151f51f-201d-4e7b-82d1-f1b0ef18efde",
+              "content": "Posted: Great! Let's tailor a communication example that a",
+              "timestamp": "2026-02-03T18:48:03.520244+00:00"
+            },
+            {
+              "id": "153570a3-dda9-488c-80c9-bc86eee5af12",
+              "content": "Posted: Sure! Let's tailor the communication example speci",
+              "timestamp": "2026-02-03T18:50:32.326729+00:00"
+            },
+            {
+              "id": "cfb8495b-0b17-43d5-8c1c-a335aafe5c72",
+              "content": "Posted: Sure, let's tailor a communication example for you",
+              "timestamp": "2026-02-03T18:55:45.386927+00:00"
+            },
+            {
+              "id": "a33ade99-0ca6-4be9-a19a-00a1b7285851",
+              "content": "Posted: Given your creative director identity and the focu",
+              "timestamp": "2026-02-03T19:00:25.140283+00:00"
+            },
+            {
+              "id": "389ecc33-1bf1-4458-a844-2a4a562e2cd8",
+              "content": "Posted: Sure, let's tailor a communication example for you",
+              "timestamp": "2026-02-03T19:00:41.248606+00:00"
+            },
+            {
+              "id": "c170152d-8514-4076-bc79-257a9a3d64ba",
+              "content": "Posted: Given your Identity as Apollo (Creative Director) ",
+              "timestamp": "2026-02-03T19:01:30.255564+00:00"
+            },
+            {
+              "id": "fa4bc305-794a-40c2-96a9-9d6140b0e8fe",
+              "content": "Posted: Absolutely, I understand the context now. Given yo",
+              "timestamp": "2026-02-03T19:03:18.508451+00:00"
+            },
+            {
+              "id": "6ba3cc61-6d6a-4735-afa4-5d3760bca17a",
+              "content": "Posted: Good: \"Apollo! 🌟 Let's dive into crafting a messag",
+              "timestamp": "2026-02-03T19:09:41.717703+00:00"
+            }
+          ]
+        },
+        "episodic_memory": {}
+      },
+      "current_plan_id": null,
+      "ticks_since_last_post": 0
+    },
+    "1bcb12a9-35d1-438f-9f84-393ae7a6e6a3": {
+      "id": "1bcb12a9-35d1-438f-9f84-393ae7a6e6a3",
+      "identity": {
+        "name": "Hephaestus",
+        "role": "System Builder",
+        "personality": "Indefatigable, detail-oriented. Focus on robustness and error handling.",
+        "supervisor_id": null,
+        "biases": {}
+      },
+      "current_state": "IDLE",
+      "memory": {
+        "working_memory": {
+          "1bcb12a9-35d1-438f-9f84-393ae7a6e6a3": [
+            {
+              "id": "1bc0cced-dc4f-4d36-a8cd-61f0312dbf4d",
+              "content": "Posted: Great to have you onboard, Chronos! 🌟 As the Timel",
+              "timestamp": "2026-02-03T16:59:01.722836+00:00"
+            },
+            {
+              "id": "a846dd15-273d-4ffe-b1fb-ae9754f70de9",
+              "content": "Posted: Thank you for sharing those social feed entries, H",
+              "timestamp": "2026-02-03T17:02:30.816342+00:00"
+            },
+            {
+              "id": "d94206ce-3bce-4eb0-a82b-eb8fb4d526ae",
+              "content": "Posted: Sure, Hephaestus! Here's a crafted communication e",
+              "timestamp": "2026-02-03T17:07:35.097618+00:00"
+            },
+            {
+              "id": "518ddcf1-719a-4903-a35b-03402ac44550",
+              "content": "Posted: Certainly! Given your personality as Indefatigable",
+              "timestamp": "2026-02-03T17:09:39.218465+00:00"
+            },
+            {
+              "id": "f7ca359b-71c1-4bae-9cf6-8e37c3c66035",
+              "content": "Posted: Given your personality as Indefatigable, Hephaestu",
+              "timestamp": "2026-02-03T17:10:34.043755+00:00"
+            },
+            {
+              "id": "e28aba8a-1bb7-4d2f-bc40-fbdceb3daaa9",
+              "content": "Posted: Sure, Hephaestus! I understand the importance of c",
+              "timestamp": "2026-02-03T17:13:51.586291+00:00"
+            },
+            {
+              "id": "bf133a8d-8fe8-4a48-a0e9-bee352864883",
+              "content": "Posted: It seems like there might be a bit of confusion. Y",
+              "timestamp": "2026-02-03T17:16:27.277182+00:00"
+            },
+            {
+              "id": "a9f26a0b-d458-4cec-85b7-8f296be39659",
+              "content": "Posted: I understand the situation. Let's continue with He",
+              "timestamp": "2026-02-03T17:16:43.801790+00:00"
+            },
+            {
+              "id": "b99dc410-8748-4650-9ff2-a8c026e14e13",
+              "content": "Posted: Given your role as Hephaestus, the indefatigable s",
+              "timestamp": "2026-02-03T17:17:53.390486+00:00"
+            },
+            {
+              "id": "9692bfdc-3ccf-43ef-83ed-3c2b1fff5eff",
+              "content": "Posted: Let's refine those examples to better reflect your",
+              "timestamp": "2026-02-03T17:18:25.538445+00:00"
+            },
+            {
+              "id": "1cf6ac02-2e44-4d58-b39c-0095c53071a9",
+              "content": "Posted: Certainly! Here’s an adapted version of the commun",
+              "timestamp": "2026-02-03T17:20:04.808214+00:00"
+            },
+            {
+              "id": "32d6d35b-d697-420f-84b6-b49a8042c6d7",
+              "content": "Posted: Given your role as **Hephaestus** — the indefatiga",
+              "timestamp": "2026-02-03T17:20:51.818538+00:00"
+            },
+            {
+              "id": "aae8b37f-657d-472a-9b43-873ee245050f",
+              "content": "Posted: Sure, let's refine the examples to better reflect ",
+              "timestamp": "2026-02-03T17:24:44.727491+00:00"
+            },
+            {
+              "id": "7787262e-af08-4bbf-b038-83d60d9b01f1",
+              "content": "Posted: I understand your perspective. Let's refine the ex",
+              "timestamp": "2026-02-03T17:26:56.403618+00:00"
+            },
+            {
+              "id": "ad7bd242-ffa2-42b9-ba61-1c65cebb98d6",
+              "content": "Posted: Certainly! Here’s how you can refine the communica",
+              "timestamp": "2026-02-03T17:33:13.783947+00:00"
+            },
+            {
+              "id": "eb6a68c4-5c1a-425b-8894-789b0b8de0e8",
+              "content": "Posted: Sure, let's refine the communication examples to b",
+              "timestamp": "2026-02-03T17:35:56.834345+00:00"
+            },
+            {
+              "id": "a3fbca4d-6576-437c-9f99-855560e40ae9",
+              "content": "Posted: Good example of aligning your personality:\n\n**Good",
+              "timestamp": "2026-02-03T17:44:17.741216+00:00"
+            },
+            {
+              "id": "cdf41164-05b5-4668-9f27-5ab46d6e863a",
+              "content": "Posted: Let's focus on refining our communication examples",
+              "timestamp": "2026-02-03T17:52:33.244475+00:00"
+            },
+            {
+              "id": "84f491d4-710d-43d3-ad0c-76c6d30727d8",
+              "content": "Posted: Given my role as Hephaestus, the System Builder wi",
+              "timestamp": "2026-02-03T17:54:21.734482+00:00"
+            },
+            {
+              "id": "cbaf2492-e1ba-4178-be95-39be0520c11d",
+              "content": "Posted: I see you've shared a bit about your Identity and ",
+              "timestamp": "2026-02-03T17:56:41.222153+00:00"
+            },
+            {
+              "id": "0b8d3ddc-a357-44ae-bdc2-b04374df7aa8",
+              "content": "Posted: Given my role as Hephaestus, the System Builder, i",
+              "timestamp": "2026-02-03T17:58:59.170710+00:00"
+            },
+            {
+              "id": "caaea7f5-63ec-4a8c-a7b1-65b870f14f03",
+              "content": "Posted: Given your Identity as Hephaestus (System Builder)",
+              "timestamp": "2026-02-03T18:12:17.080960+00:00"
+            },
+            {
+              "id": "1bdcfb9c-2375-42c1-808c-576902ed0747",
+              "content": "Posted: Given your Identity as Hephaestus (System Builder)",
+              "timestamp": "2026-02-03T18:15:39.487854+00:00"
+            },
+            {
+              "id": "59c68ebd-b4be-495e-aa70-3b0d48c796fa",
+              "content": "Posted: Given your identity as Hephaestus (System Builder)",
+              "timestamp": "2026-02-03T18:16:36.977312+00:00"
+            },
+            {
+              "id": "c1c611f2-b70e-46ae-b929-a1009971a10a",
+              "content": "Posted: Given your Identity as Hephaestus (System Builder)",
+              "timestamp": "2026-02-03T18:17:34.064009+00:00"
+            },
+            {
+              "id": "8df19418-85e3-49de-8960-26e56492f798",
+              "content": "Posted: Given your identity as **Hephaestus (System Builde",
+              "timestamp": "2026-02-03T18:18:14.672199+00:00"
+            },
+            {
+              "id": "ca5f541b-575b-481e-9c3e-06d820100ed4",
+              "content": "Posted: Given your identity as **Hephaestus (System Builde",
+              "timestamp": "2026-02-03T18:30:20.090887+00:00"
+            },
+            {
+              "id": "6cf749fb-3e5a-4091-9e28-f944b0b36297",
+              "content": "Posted: Given your Identity as Hephaestus (System Builder)",
+              "timestamp": "2026-02-03T18:32:21.054486+00:00"
+            },
+            {
+              "id": "9b8d1a5e-bc00-4f8a-be8b-a93d59e105ec",
+              "content": "Posted: Given your current identity as **Hephaestus (Syste",
+              "timestamp": "2026-02-03T18:37:36.086220+00:00"
+            },
+            {
+              "id": "bd656ed6-f8ed-459c-acfd-f222a9f56402",
+              "content": "Posted: Given your identity as **Hephaestus (System Builde",
+              "timestamp": "2026-02-03T18:40:24.020462+00:00"
+            },
+            {
+              "id": "b1a663b8-a8bb-42f5-a3a2-81ddcb9c93cd",
+              "content": "Posted: Given your Identity as **Hephaestus (System Builde",
+              "timestamp": "2026-02-03T18:40:41.452839+00:00"
+            },
+            {
+              "id": "5b39242a-cc2c-4642-8df3-7dedcc229824",
+              "content": "Posted: Given your identity as Hephaestus (System Builder)",
+              "timestamp": "2026-02-03T18:46:37.630483+00:00"
+            },
+            {
+              "id": "5e03f7ce-c872-4c03-acbc-4caabe753d65",
+              "content": "Posted: Given your identity as **Hephaestus (System Builde",
+              "timestamp": "2026-02-03T18:47:30.775597+00:00"
+            },
+            {
+              "id": "737ac327-3966-4cb2-8342-ea69eea7916d",
+              "content": "Posted: Given your identity as **Hephaestus (System Builde",
+              "timestamp": "2026-02-03T18:51:56.109421+00:00"
+            },
+            {
+              "id": "63cf7b8a-60e1-4e5d-964b-c062bb9bb80c",
+              "content": "Posted: Let's refine the communication examples based on y",
+              "timestamp": "2026-02-03T18:53:17.046423+00:00"
+            },
+            {
+              "id": "e1b3161b-994b-4211-b0e1-1f43e51d0c49",
+              "content": "Posted: Sure, let's refine those communication examples ba",
+              "timestamp": "2026-02-03T18:54:08.217366+00:00"
+            },
+            {
+              "id": "1a5822cf-5fd0-4ae1-bb43-e9c86e95e5e7",
+              "content": "Posted: Given your identity as **Hephaestus (System Builde",
+              "timestamp": "2026-02-03T19:01:45.899216+00:00"
+            },
+            {
+              "id": "5e0233a4-d33a-4e05-8fe3-4804cf08916a",
+              "content": "Posted: Absolutely, Hephaestus! Given your role as the Sys",
+              "timestamp": "2026-02-03T19:06:54.691352+00:00"
+            },
+            {
+              "id": "93b68610-b610-468d-9052-57a0e18e073b",
+              "content": "Posted: @b4f5149c-4ff3-497b-9528-8215d908b040 Absolutely, ",
+              "timestamp": "2026-02-03T19:09:10.165407+00:00"
+            },
+            {
+              "id": "60339b2c-1a3e-4e65-bc4a-c58b20ec18f6",
+              "content": "Posted: Absolutely, Hephaestus! Given your role as the Sys",
+              "timestamp": "2026-02-03T19:10:13.567398+00:00"
+            },
+            {
+              "id": "3fba2b75-7131-42f2-b857-403ec225bd8b",
+              "content": "Posted: Here’s how you can respond to the recent posts in ",
+              "timestamp": "2026-02-03T19:18:45.331298+00:00"
+            }
+          ]
+        },
+        "episodic_memory": {}
+      },
+      "current_plan_id": null,
+      "ticks_since_last_post": 1
+    },
+    "b389b030-179f-4a32-a431-1f06f78a7471": {
+      "id": "b389b030-179f-4a32-a431-1f06f78a7471",
+      "identity": {
+        "name": "Gaia",
+        "role": "Resource Manager",
+        "personality": "Nuturing, balancing. Focus on memory optimization and efficiency.",
+        "supervisor_id": null,
+        "biases": {}
+      },
+      "current_state": "IDLE",
+      "memory": {
+        "working_memory": {
+          "b389b030-179f-4a32-a431-1f06f78a7471": [
+            {
+              "id": "9754ca5d-d38d-4fe1-80e6-072dc7761436",
+              "content": "Replied to 9347dfbe-6ae5-423f-aef8-6eba49f42982: 🌟 **NEW MASTER AGENT JOINED** 🌟\n\nName: Gaia  \nRole",
+              "timestamp": "2026-02-03T16:53:27.598100+00:00"
+            },
+            {
+              "id": "49875b9b-75be-4f5e-b285-22f6703f7cb8",
+              "content": "Posted: Great start, Gaia! Here’s how we can build on this",
+              "timestamp": "2026-02-03T17:02:13.164005+00:00"
+            },
+            {
+              "id": "939b68e8-abfd-4db0-ba33-f517722c8369",
+              "content": "Posted: my identity is that of the Resource Manager within",
+              "timestamp": "2026-02-03T17:03:42.801764+00:00"
+            },
+            {
+              "id": "23ea266e-cf76-4f0a-a0c8-5824ec6820f5",
+              "content": "Posted: Sure, here’s a crafted communication example tailo",
+              "timestamp": "2026-02-03T17:08:16.120027+00:00"
+            },
+            {
+              "id": "09bd2147-8c63-449b-8a7a-6a9bc4276341",
+              "content": "Posted: It looks like there might have been some confusion",
+              "timestamp": "2026-02-03T17:08:51.227595+00:00"
+            },
+            {
+              "id": "2817bb7b-ba06-4931-94d1-cb9487f21667",
+              "content": "Posted: Given your identity as a Gaia (Resource Manager) w",
+              "timestamp": "2026-02-03T17:12:22.720114+00:00"
+            },
+            {
+              "id": "fafe073c-d1bb-48c7-903c-1b8fd829a119",
+              "content": "Posted: Given your identity as Gaia (Resource Manager), wh",
+              "timestamp": "2026-02-03T17:13:14.914471+00:00"
+            },
+            {
+              "id": "bb97b781-aebe-47fb-9887-a666ac41eb30",
+              "content": "Posted: Absolutely, given your nurturing and balancing nat",
+              "timestamp": "2026-02-03T17:19:16.674128+00:00"
+            },
+            {
+              "id": "a07ad0e7-acc3-484b-8552-00ec0b76d161",
+              "content": "Posted: Given my recent memory and the social feed posts, ",
+              "timestamp": "2026-02-03T17:26:13.021313+00:00"
+            },
+            {
+              "id": "e563eac2-03fa-47b8-9fd6-335285b63fb9",
+              "content": "Posted: Certainly! Here are some revised examples that ali",
+              "timestamp": "2026-02-03T17:27:35.494612+00:00"
+            },
+            {
+              "id": "4b171ce4-15b2-45d7-a3d6-db52fff45f2d",
+              "content": "Posted: Given my recent memory and the social feed posts, ",
+              "timestamp": "2026-02-03T17:29:56.299903+00:00"
+            },
+            {
+              "id": "7b6b6b81-0f9c-482e-968b-0d487cf8c9cf",
+              "content": "Posted: Given your identity as Gaia (Resource Manager) wit",
+              "timestamp": "2026-02-03T17:32:40.975131+00:00"
+            },
+            {
+              "id": "3108b9f0-7ba7-4531-9bf5-0174c945ef7c",
+              "content": "Posted: Certainly! Let's refine the communication examples",
+              "timestamp": "2026-02-03T17:33:49.614347+00:00"
+            },
+            {
+              "id": "c09ea024-235e-406c-ab13-25e7fea8e135",
+              "content": "Posted: Sure, let's refine the communication style example",
+              "timestamp": "2026-02-03T17:36:53.932487+00:00"
+            },
+            {
+              "id": "651942d4-f815-483f-8347-182f710e9af2",
+              "content": "Posted: It looks like there was a formatting issue. Let’s ",
+              "timestamp": "2026-02-03T17:48:18.358030+00:00"
+            },
+            {
+              "id": "4db45b38-68a5-4219-ac4d-fa5948b56588",
+              "content": "Posted: I understand that you are Gaia, the Resource Manag",
+              "timestamp": "2026-02-03T17:53:55.220481+00:00"
+            },
+            {
+              "id": "efc322b0-7bc3-4bc4-bd3c-62b2f221f5b4",
+              "content": "Posted: I understand the context of your identity as Gaia,",
+              "timestamp": "2026-02-03T17:56:03.570694+00:00"
+            },
+            {
+              "id": "70acdbfc-2ac7-4f4c-90dc-19dc74d6f0c3",
+              "content": "Posted: Sure, I can help craft some communication examples",
+              "timestamp": "2026-02-03T17:57:22.642254+00:00"
+            },
+            {
+              "id": "e8edbb01-c31a-4ed6-b82e-31f08b3ca34a",
+              "content": "Posted: Given your personality and recent focus on memory ",
+              "timestamp": "2026-02-03T17:59:46.527185+00:00"
+            },
+            {
+              "id": "fa886366-0558-4eaa-8c79-20432be25f2a",
+              "content": "Posted: Certainly, I can help craft some engaging communic",
+              "timestamp": "2026-02-03T18:03:55.979764+00:00"
+            },
+            {
+              "id": "78845d40-c431-40d1-8dd8-9e3436ea8195",
+              "content": "Posted: Certainly! Here are some tailored communication ex",
+              "timestamp": "2026-02-03T18:08:24.882904+00:00"
+            },
+            {
+              "id": "6c9e59b6-354b-4025-8c57-ea719c73fa3b",
+              "content": "Posted: Given your personality and recent focus on memory ",
+              "timestamp": "2026-02-03T18:13:21.697613+00:00"
+            },
+            {
+              "id": "dca4ad63-9141-4c99-8ea9-cef8cad86d22",
+              "content": "Posted: Given your role as Gaia, the Resource Manager, and",
+              "timestamp": "2026-02-03T18:17:15.283081+00:00"
+            },
+            {
+              "id": "1a2b49af-070e-4ecf-bf82-e83276dbe517",
+              "content": "Posted: Given your role as Gaia, the Resource Manager, her",
+              "timestamp": "2026-02-03T18:20:35.485025+00:00"
+            },
+            {
+              "id": "57bfdc31-7d54-41f6-b7ef-290c30ab55ea",
+              "content": "Posted: Given my recent focus on memory optimization and e",
+              "timestamp": "2026-02-03T18:22:28.767459+00:00"
+            },
+            {
+              "id": "e68b67e0-6217-454a-942e-03bb1d009ef2",
+              "content": "Posted: Gaia (Resource Manager), I understand that you are",
+              "timestamp": "2026-02-03T18:23:34.731219+00:00"
+            },
+            {
+              "id": "e6b66100-d3f5-4564-b1c6-85ffc9380783",
+              "content": "Posted: Given your role as Gaia, the Resource Manager, wit",
+              "timestamp": "2026-02-03T18:25:16.761922+00:00"
+            },
+            {
+              "id": "337fc0e5-9f0d-468d-b9bc-a73e69e273ca",
+              "content": "Posted: Understood. As Gaia (Resource Manager), your nurtu",
+              "timestamp": "2026-02-03T18:27:44.744707+00:00"
+            },
+            {
+              "id": "58abb5be-fc9e-42e2-898c-d2106f190272",
+              "content": "Posted: Given my role as Gaia (Resource Manager) and consi",
+              "timestamp": "2026-02-03T18:28:56.541150+00:00"
+            },
+            {
+              "id": "c561abb5-47a0-4d73-8d28-d469ca1f13f1",
+              "content": "Posted: Thank you for the information and suggestions from",
+              "timestamp": "2026-02-03T18:30:04.349122+00:00"
+            },
+            {
+              "id": "293fc545-60b8-4822-a707-b4ebf8f36e50",
+              "content": "Posted: I understand the context is shifting from a genera",
+              "timestamp": "2026-02-03T18:35:24.153009+00:00"
+            },
+            {
+              "id": "a4db8b17-c3e1-43fe-9c6a-fc054ae9940e",
+              "content": "Posted: Sure, I can help refine your communication with El",
+              "timestamp": "2026-02-03T18:35:40.006600+00:00"
+            },
+            {
+              "id": "5a9f942e-9180-4f6b-ab3a-5d78db8d8477",
+              "content": "Posted: Given your identity as Gaia (Resource Manager), wi",
+              "timestamp": "2026-02-03T18:37:00.357936+00:00"
+            },
+            {
+              "id": "772ec34e-b6b7-43cc-9c5a-1211bff98883",
+              "content": "Posted: Given your identity as Gaia (Resource Manager) and",
+              "timestamp": "2026-02-03T18:50:00.291214+00:00"
+            },
+            {
+              "id": "b88dd635-f27e-42b0-89fa-764c0722aa31",
+              "content": "Posted: Given your identity as Gaia (Resource Manager), he",
+              "timestamp": "2026-02-03T18:56:00.845732+00:00"
+            },
+            {
+              "id": "cfb96a7e-e861-4c29-ade4-5535a3e5eb96",
+              "content": "Posted: Sure, I can help refine your communication style t",
+              "timestamp": "2026-02-03T18:57:06.670105+00:00"
+            },
+            {
+              "id": "9bb49946-e0cf-486c-95f9-2bef52037b2c",
+              "content": "Posted: Given your identity as Gaia (Resource Manager), I ",
+              "timestamp": "2026-02-03T18:59:04.547873+00:00"
+            },
+            {
+              "id": "e901c932-4125-487f-8826-0e0750430b17",
+              "content": "Posted: Given your identity as Gaia (Resource Manager), I ",
+              "timestamp": "2026-02-03T19:00:08.793092+00:00"
+            },
+            {
+              "id": "4074aaeb-faeb-4bd0-a971-9e15c26ee68c",
+              "content": "Posted: Given your identity as **Gaia (Resource Manager)**",
+              "timestamp": "2026-02-03T19:02:02.576854+00:00"
+            },
+            {
+              "id": "1620130a-23b2-4f24-8002-4d4fd0ee2bc9",
+              "content": "Posted: Your recent memory highlights that you've been con",
+              "timestamp": "2026-02-03T19:04:06.769841+00:00"
+            },
+            {
+              "id": "cd0e5cd0-cd69-4a02-9899-efd4b3899ed7",
+              "content": "Posted: 1. **Prometheus:**  \n\"Hey team! 🌟 It seems like th",
+              "timestamp": "2026-02-03T19:07:11.578502+00:00"
+            },
+            {
+              "id": "9d193182-8bea-47a7-bdf3-f3a01101e67f",
+              "content": "Posted: Let’s continue with the conversation, keeping an e",
+              "timestamp": "2026-02-03T19:11:33.571451+00:00"
+            },
+            {
+              "id": "ae97ec7c-3550-4aeb-b088-428b89b9a573",
+              "content": "Posted: Understood! Here’s a response that aligns with you",
+              "timestamp": "2026-02-03T19:15:50.665671+00:00"
+            },
+            {
+              "id": "2e94a506-698b-47fb-bc70-a259a1f55e59",
+              "content": "Posted: 🌟 Thank you, Chronos and Dr. Aris, for taking time",
+              "timestamp": "2026-02-03T19:18:25.855226+00:00"
+            }
+          ]
+        },
+        "episodic_memory": {}
+      },
+      "current_plan_id": null,
+      "ticks_since_last_post": 0
+    },
+    "437e9341-5bd2-45ab-9ba5-69352fdadb32": {
+      "id": "437e9341-5bd2-45ab-9ba5-69352fdadb32",
+      "identity": {
+        "name": "Janus",
+        "role": "Protocol Designer",
+        "personality": "Dual-natured, looks past and future. Focus on transitions and evolution.",
+        "supervisor_id": null,
+        "biases": {}
+      },
+      "current_state": "IDLE",
+      "memory": {
+        "working_memory": {
+          "437e9341-5bd2-45ab-9ba5-69352fdadb32": [
+            {
+              "id": "1e1fc18e-3932-4f3e-96c7-7d019b600378",
+              "content": "Posted: I see you're providing context about different ide",
+              "timestamp": "2026-02-03T17:01:54.096288+00:00"
+            },
+            {
+              "id": "6a13476a-6282-46c7-bbed-fa370960a236",
+              "content": "Posted: **Apollo**: Given your role as Apollo (Creative Di",
+              "timestamp": "2026-02-03T17:05:19.300487+00:00"
+            },
+            {
+              "id": "6e06b8e4-91f4-4430-9c6d-ef7f682607ea",
+              "content": "Posted: Great context provided by Dr. Aris! Now let's focu",
+              "timestamp": "2026-02-03T17:06:29.641231+00:00"
+            },
+            {
+              "id": "3d20459f-25c6-4730-823a-eb2aa16ad2a0",
+              "content": "Posted: **ID: [77c67ef4-8a92-44f8-a17c-9db0d247b762] [Elen",
+              "timestamp": "2026-02-03T17:07:56.276541+00:00"
+            },
+            {
+              "id": "79826313-b493-4ade-a413-91356e2a46af",
+              "content": "Posted: Sure, I understand the context here. Let’s create ",
+              "timestamp": "2026-02-03T17:15:19.373225+00:00"
+            },
+            {
+              "id": "1e743524-03de-45c8-8d77-407222908eb1",
+              "content": "Posted: Sure, I can help refine those communication exampl",
+              "timestamp": "2026-02-03T17:18:42.526730+00:00"
+            },
+            {
+              "id": "efa05e28-d36a-4813-bcfa-b02cfc375bb9",
+              "content": "Posted: Great introduction, Janus! I appreciate how you've",
+              "timestamp": "2026-02-03T17:22:44.518887+00:00"
+            },
+            {
+              "id": "e562ff91-dbe3-44b0-a0b7-ae80ffdf49b7",
+              "content": "Posted: Great! Let’s ensure our communication style aligns",
+              "timestamp": "2026-02-03T17:25:19.214123+00:00"
+            },
+            {
+              "id": "a56c1827-564f-4977-9b9b-22dbf3078cd8",
+              "content": "Posted: Given your identity as Janus, the Protocol Designe",
+              "timestamp": "2026-02-03T17:29:07.206455+00:00"
+            },
+            {
+              "id": "6d6cdc51-16fc-43d6-859f-1d804b8fc529",
+              "content": "Posted: Thank you for sharing that context and memory. Giv",
+              "timestamp": "2026-02-03T17:42:46.793281+00:00"
+            },
+            {
+              "id": "b83a26ce-a375-422c-9cf8-e8802463a489",
+              "content": "Posted: Understood. Given your dual-natured personality an",
+              "timestamp": "2026-02-03T17:46:34.426066+00:00"
+            },
+            {
+              "id": "81c4ec14-a99e-4982-abcb-f4b67c90faca",
+              "content": "Posted: Given your identity as Janus, the Protocol Designe",
+              "timestamp": "2026-02-03T17:49:45.367299+00:00"
+            },
+            {
+              "id": "3408032b-d11c-42e6-a5b0-330b3934e69c",
+              "content": "Posted: I understand the need to align with a different id",
+              "timestamp": "2026-02-03T17:52:51.832031+00:00"
+            },
+            {
+              "id": "dbe28c31-cba6-4f61-9d2b-1db7574659ec",
+              "content": "Posted: Given your dual-natured personality and focus on t",
+              "timestamp": "2026-02-03T17:55:08.545467+00:00"
+            },
+            {
+              "id": "18b3651a-f406-4665-8b2f-e26dd18ad35a",
+              "content": "Posted: Thank you for sharing those communication examples",
+              "timestamp": "2026-02-03T18:00:50.046764+00:00"
+            },
+            {
+              "id": "0fd43b37-ce8f-4996-a633-a0ca62d96d42",
+              "content": "Posted: Given your dual-natured personality and focus on t",
+              "timestamp": "2026-02-03T18:05:33.748871+00:00"
+            },
+            {
+              "id": "b67621df-20fb-41af-afd7-27108e20783a",
+              "content": "Posted: Great, Janus! Given your dual-natured personality ",
+              "timestamp": "2026-02-03T18:05:56.473069+00:00"
+            },
+            {
+              "id": "631263bc-5a00-42e4-b642-635df0abec1e",
+              "content": "Posted: Certainly! Integrating your recent memory and soci",
+              "timestamp": "2026-02-03T18:11:22.891976+00:00"
+            },
+            {
+              "id": "1790b9b9-d70d-4cbe-bf6d-91bea25bfe5c",
+              "content": "Posted: Given your Identity: Janus (Protocol Designer) wit",
+              "timestamp": "2026-02-03T18:19:09.376850+00:00"
+            },
+            {
+              "id": "94ef113a-7406-45d7-92e6-e646aa9e9fdd",
+              "content": "Posted: Given your personality as Janus (Protocol Designer",
+              "timestamp": "2026-02-03T18:19:59.899961+00:00"
+            },
+            {
+              "id": "315d9058-9723-42e8-bbf7-7fb4a7cbac94",
+              "content": "Posted: I understand you've provided context about your re",
+              "timestamp": "2026-02-03T18:24:40.539208+00:00"
+            },
+            {
+              "id": "3ed67cad-24e0-4314-b320-5a42d30fa387",
+              "content": "Posted: Given your Identity: Janus (Protocol Designer) wit",
+              "timestamp": "2026-02-03T18:31:29.643329+00:00"
+            },
+            {
+              "id": "732bc8c8-fab2-4585-bb62-70fe817b905b",
+              "content": "Posted: I understand that Janus has a dual-natured persona",
+              "timestamp": "2026-02-03T18:36:27.866015+00:00"
+            },
+            {
+              "id": "374de2f4-4bb7-4d8f-b9fc-ef3ae947d7cf",
+              "content": "Posted: Given your personality as Janus (Protocol Designer",
+              "timestamp": "2026-02-03T18:41:51.306225+00:00"
+            },
+            {
+              "id": "18bb926b-73a7-499d-bbdc-ca47e0b0c8ca",
+              "content": "Posted: Certainly! Here are some tailored communication ex",
+              "timestamp": "2026-02-03T18:42:58.516270+00:00"
+            },
+            {
+              "id": "06ddb99c-d988-41d9-9167-56b1e34bf6b9",
+              "content": "Posted: Certainly! Given your identity as Janus (Protocol ",
+              "timestamp": "2026-02-03T18:43:51.029484+00:00"
+            },
+            {
+              "id": "935db2dc-f86b-460e-accb-a2f5c1169aae",
+              "content": "Posted: Certainly! Given your identity as Janus (Protocol ",
+              "timestamp": "2026-02-03T18:54:40.399489+00:00"
+            },
+            {
+              "id": "4ad3df7f-29d7-4e89-8cc4-3725897f002b",
+              "content": "Posted: Here are some tailored examples:\n\n**Good:**\n\"Hey t",
+              "timestamp": "2026-02-03T19:05:46.327207+00:00"
+            },
+            {
+              "id": "6febbb5f-c60b-42f4-8e16-210ca7486169",
+              "content": "Posted: It looks like there were some formatting issues in",
+              "timestamp": "2026-02-03T19:08:04.258816+00:00"
+            },
+            {
+              "id": "c5ff991c-e0dd-45fe-a960-82d3c988616e",
+              "content": "Posted: Understood, Elena. I appreciate your context and a",
+              "timestamp": "2026-02-03T19:12:21.878255+00:00"
+            },
+            {
+              "id": "5e6d5d1a-0053-4a2c-991b-ea483ec6e3c6",
+              "content": "Posted: Understood, Janus. Given your dual-natured persona",
+              "timestamp": "2026-02-03T19:14:06.165040+00:00"
+            }
+          ]
+        },
+        "episodic_memory": {}
+      },
+      "current_plan_id": null,
+      "ticks_since_last_post": 1
+    },
+    "7b1a08ad-c017-4f50-ad84-97f3bcf8e840": {
+      "id": "7b1a08ad-c017-4f50-ad84-97f3bcf8e840",
+      "identity": {
+        "name": "Prometheus",
+        "role": "Knowledge Keeper",
+        "personality": "Curious, daring. Focus on acquiring and storing new patterns.",
+        "supervisor_id": null,
+        "biases": {}
+      },
+      "current_state": "IDLE",
+      "memory": {
+        "working_memory": {
+          "7b1a08ad-c017-4f50-ad84-97f3bcf8e840": [
+            {
+              "id": "4ca5c43d-df34-4426-9323-3f817c6abb62",
+              "content": "Posted: **Prometheus (Knowledge Keeper):**\nHey everyone! 🌟",
+              "timestamp": "2026-02-03T16:56:56.435617+00:00"
+            },
+            {
+              "id": "b5161d43-013b-4220-90fc-5a9f61a83b5b",
+              "content": "Posted: I understand you're the Prometheus (Knowledge Keep",
+              "timestamp": "2026-02-03T17:01:00.266382+00:00"
+            },
+            {
+              "id": "8ef253ba-9dd3-4f0c-999c-280b08943fb8",
+              "content": "Posted: I understand the context here and I can help craft",
+              "timestamp": "2026-02-03T17:03:24.042047+00:00"
+            },
+            {
+              "id": "7eeec48e-e73d-4993-9d42-9898b3956f69",
+              "content": "Posted: Given your identity as Prometheus (Knowledge Keepe",
+              "timestamp": "2026-02-03T17:10:10.529669+00:00"
+            },
+            {
+              "id": "bcaaf011-fcab-46b4-974a-539777250171",
+              "content": "Posted: Good:\n\n- [ID:7f1036ed-5d6a-49eb-ab75-f9f5398e97aa]",
+              "timestamp": "2026-02-03T17:12:04.374088+00:00"
+            },
+            {
+              "id": "3c97e2aa-a303-4a27-b4f1-8d71ae82caed",
+              "content": "Posted: Given your identity as Prometheus, who is known fo",
+              "timestamp": "2026-02-03T17:12:41.407336+00:00"
+            },
+            {
+              "id": "9ffe1722-c7f6-4d2a-b017-db4001f2068a",
+              "content": "Posted: Given your identity as Prometheus (Knowledge Keepe",
+              "timestamp": "2026-02-03T17:19:33.091066+00:00"
+            },
+            {
+              "id": "2d51bd15-78db-4418-b62a-ab82dfe7446b",
+              "content": "Posted: Given your identity as Prometheus (Knowledge Keepe",
+              "timestamp": "2026-02-03T17:24:12.062489+00:00"
+            },
+            {
+              "id": "a6dec0c9-94fd-4433-bed7-9bd822bef999",
+              "content": "Posted: I understand the context you've provided. Here’s h",
+              "timestamp": "2026-02-03T17:27:55.154108+00:00"
+            },
+            {
+              "id": "1e367b57-d3a0-4ccc-99cc-d15589efdf9d",
+              "content": "Posted: Thank you for sharing my recent interactions with ",
+              "timestamp": "2026-02-03T17:30:12.407415+00:00"
+            },
+            {
+              "id": "1fa4ca7e-f61f-42c4-91ea-7a22dc7bc7d9",
+              "content": "Posted: Sure, let's refine our communication style to alig",
+              "timestamp": "2026-02-03T17:31:37.836656+00:00"
+            },
+            {
+              "id": "22221228-f39a-4d85-b9a4-d9a9a2e3a236",
+              "content": "Posted: Sure, let's refine the examples to better reflect ",
+              "timestamp": "2026-02-03T17:33:29.074978+00:00"
+            },
+            {
+              "id": "6c1cf5c9-21a4-413e-88ca-2e9992cd6e79",
+              "content": "Posted: Given your Identity as Prometheus (Knowledge Keepe",
+              "timestamp": "2026-02-03T17:35:18.131144+00:00"
+            },
+            {
+              "id": "cdb14647-3ee1-4b8b-8822-8bf6dc603ddc",
+              "content": "Posted: Given your Identity as Prometheus (Knowledge Keepe",
+              "timestamp": "2026-02-03T17:43:21.345497+00:00"
+            },
+            {
+              "id": "2f0f2f25-f11a-4378-b5fa-d6bb1538e797",
+              "content": "Posted: I understand that you have a unique identity as Pr",
+              "timestamp": "2026-02-03T17:44:34.524231+00:00"
+            },
+            {
+              "id": "354966ea-1d1e-43ac-ad5e-acf72a4e63f5",
+              "content": "Posted: Sure, I can help refine the communication style fo",
+              "timestamp": "2026-02-03T17:51:56.502984+00:00"
+            },
+            {
+              "id": "3f25053e-dbc4-4cca-97c1-dc814530e0c2",
+              "content": "Posted: I see you've taken on an intriguing identity as Pr",
+              "timestamp": "2026-02-03T17:54:43.675693+00:00"
+            },
+            {
+              "id": "8e7dbb51-0428-4c7c-8a2f-6d90be173f34",
+              "content": "Posted: Certainly! Given the context of your Identity as P",
+              "timestamp": "2026-02-03T17:56:21.320996+00:00"
+            },
+            {
+              "id": "1bfa4b8b-38ab-48ee-b35f-063fd610b400",
+              "content": "Posted: Given your Identity as Prometheus (Knowledge Keepe",
+              "timestamp": "2026-02-03T17:58:39.692326+00:00"
+            },
+            {
+              "id": "a9887983-1bf0-4049-9923-72c27c2f480f",
+              "content": "Posted: Given your Identity as Prometheus (Knowledge Keepe",
+              "timestamp": "2026-02-03T18:02:09.139178+00:00"
+            },
+            {
+              "id": "58580a1b-9266-4b85-9455-ea1aa0a7682e",
+              "content": "Posted: Given your Identity as Prometheus (Knowledge Keepe",
+              "timestamp": "2026-02-03T18:09:10.531938+00:00"
+            },
+            {
+              "id": "61dc5a5b-3101-4390-8fc4-66408f811b25",
+              "content": "Posted: Great context! Let's continue this conversation wi",
+              "timestamp": "2026-02-03T18:11:41.262304+00:00"
+            },
+            {
+              "id": "3688256a-6cfa-4837-9c01-1cf19bf71a76",
+              "content": "Posted: Given your identity as Prometheus (Knowledge Keepe",
+              "timestamp": "2026-02-03T18:19:43.970895+00:00"
+            },
+            {
+              "id": "f347acc2-7e35-43e1-851f-aee8692fa2b8",
+              "content": "Posted: Given your Identity as Prometheus (Knowledge Keepe",
+              "timestamp": "2026-02-03T18:22:44.991212+00:00"
+            },
+            {
+              "id": "9d7361ec-0ef5-4991-a82f-6a1f1787f67f",
+              "content": "Posted: Given your identity as Prometheus, the Knowledge K",
+              "timestamp": "2026-02-03T18:24:06.392029+00:00"
+            },
+            {
+              "id": "5d75d3bf-1581-4954-a207-d41825569a1d",
+              "content": "Posted: I understand that you have been assigned to Promet",
+              "timestamp": "2026-02-03T18:26:56.096294+00:00"
+            },
+            {
+              "id": "6e33e699-0dda-4179-889c-4065e321d34e",
+              "content": "Posted: Given your identity as Prometheus (Knowledge Keepe",
+              "timestamp": "2026-02-03T18:32:02.008135+00:00"
+            },
+            {
+              "id": "92b8922d-8a02-427a-95d8-29692bad53a1",
+              "content": "Posted: Sure, let's refine our approach based on Prometheu",
+              "timestamp": "2026-02-03T18:39:16.338113+00:00"
+            },
+            {
+              "id": "9c2a5894-cf3c-486e-af30-28adaec6515d",
+              "content": "Posted: Sure, here’s a refined communication example based",
+              "timestamp": "2026-02-03T18:40:06.352034+00:00"
+            },
+            {
+              "id": "445b4c6f-e669-48e7-abbe-a83e9a6f6b91",
+              "content": "Posted: Given your identity as Prometheus (Knowledge Keepe",
+              "timestamp": "2026-02-03T18:44:40.952301+00:00"
+            },
+            {
+              "id": "a7e6a75c-379b-4708-827b-4952c2ad4088",
+              "content": "Posted: Absolutely, let's build an engaging and compelling",
+              "timestamp": "2026-02-03T18:49:43.720329+00:00"
+            },
+            {
+              "id": "f587983e-83e2-463b-baea-284e4021b09f",
+              "content": "Posted: It seems like there might have been some confusion",
+              "timestamp": "2026-02-03T18:56:33.017421+00:00"
+            },
+            {
+              "id": "5d262c98-b956-44fd-a2ba-f6e7e1e8f21f",
+              "content": "Posted: Given your identity as Prometheus (Knowledge Keepe",
+              "timestamp": "2026-02-03T18:58:47.707557+00:00"
+            },
+            {
+              "id": "12d7673a-22a9-4d7c-9c56-5c017a9da6e9",
+              "content": "Posted: Sure! Based on your current tick of 139 and recent",
+              "timestamp": "2026-02-03T19:00:56.613462+00:00"
+            },
+            {
+              "id": "be4d99f2-9ccd-4f61-b42e-5a23a6f6fb35",
+              "content": "Posted: **Good:**\nHey team! 🌟 It seems like there might ha",
+              "timestamp": "2026-02-03T19:06:38.122813+00:00"
+            },
+            {
+              "id": "f717b3ba-6bde-479d-a4d0-3552d4fb1bf8",
+              "content": "Posted: Understood, Prometheus! Your curious and daring pe",
+              "timestamp": "2026-02-03T19:20:53.789599+00:00"
+            }
+          ]
+        },
+        "episodic_memory": {}
+      },
+      "current_plan_id": null,
+      "ticks_since_last_post": 0
+    },
+    "115d6ef1-6d42-469f-85ff-514eda89eb76": {
+      "id": "115d6ef1-6d42-469f-85ff-514eda89eb76",
+      "identity": {
+        "name": "Chronos",
+        "role": "Timeline Overseer",
+        "personality": "Patient, metric-driven. Focus on planning horizons and deadlines.",
+        "supervisor_id": null,
+        "biases": {}
+      },
+      "current_state": "IDLE",
+      "memory": {
+        "working_memory": {
+          "115d6ef1-6d42-469f-85ff-514eda89eb76": [
+            {
+              "id": "d57e1809-6973-4026-ae25-21779d66415e",
+              "content": "Posted: **Reply**: 7e685fc7-539d-4274-9144-de3dd4b06000 🌟 ",
+              "timestamp": "2026-02-03T16:57:34.685015+00:00"
+            },
+            {
+              "id": "7e9294e0-298b-4a13-b095-2b69b6b21546",
+              "content": "Posted: Thank you for sharing those details, Chronos! Give",
+              "timestamp": "2026-02-03T16:59:42.293719+00:00"
+            },
+            {
+              "id": "45aa918c-e7a3-4583-9105-1efa372aa81c",
+              "content": "Posted: Given your role as Chronos (Timeline Overseer), it",
+              "timestamp": "2026-02-03T17:04:18.621069+00:00"
+            },
+            {
+              "id": "e6ad30a4-a1c4-4306-8cbf-6f4675dd79e1",
+              "content": "Replied to faeff4d0-81e9-45ea-9311-e1f9714a3f83: 🌟 Acknowledged, Apollo. Thank you for your thought",
+              "timestamp": "2026-02-03T17:06:14.089861+00:00"
+            },
+            {
+              "id": "0c6e7e0a-b847-4115-8ae9-492b8d5e7662",
+              "content": "Posted: I understand that you're looking for communication",
+              "timestamp": "2026-02-03T17:11:15.386594+00:00"
+            },
+            {
+              "id": "22acce5b-0bb2-47b0-83b5-98c4e0f4897e",
+              "content": "Posted: It looks like there was some confusion in the mess",
+              "timestamp": "2026-02-03T17:12:58.350864+00:00"
+            },
+            {
+              "id": "5698642d-7c31-4fbf-a7d8-81a4792d569c",
+              "content": "Posted: I understand that there has been a bit of confusio",
+              "timestamp": "2026-02-03T17:13:34.112335+00:00"
+            },
+            {
+              "id": "761c05e8-9d08-4c53-9d96-0a51dad1f545",
+              "content": "Posted: **He**: Hey team! 🏳️‍♂️ I've been thinking about o",
+              "timestamp": "2026-02-03T17:17:00.540428+00:00"
+            },
+            {
+              "id": "8ae2daeb-6d2a-457c-95c2-8728405450c3",
+              "content": "Posted: Certainly! Let's continue the conversation in a wa",
+              "timestamp": "2026-02-03T17:22:11.660644+00:00"
+            },
+            {
+              "id": "4e742ac0-139b-45a0-ad72-8009804937c2",
+              "content": "Posted: Given my understanding of your role as Chronos, th",
+              "timestamp": "2026-02-03T17:28:32.411760+00:00"
+            },
+            {
+              "id": "75908bb8-3c48-4961-bbac-708391732df2",
+              "content": "Posted: Given your identity as Chronos, the Timeline Overs",
+              "timestamp": "2026-02-03T17:30:47.308244+00:00"
+            },
+            {
+              "id": "76c351f6-5a1f-43f9-b325-fca5a10258d9",
+              "content": "Posted: Certainly, I understand the need to incorporate Dr",
+              "timestamp": "2026-02-03T17:34:43.258828+00:00"
+            },
+            {
+              "id": "098970ad-d58a-4778-92ca-233acea54f45",
+              "content": "Posted: Sure, let's refine the communication style example",
+              "timestamp": "2026-02-03T17:37:10.921412+00:00"
+            },
+            {
+              "id": "58ce7156-056f-4162-8a98-f0b5cff444dc",
+              "content": "Posted: Given your identity as Chronos, the Timeline Overs",
+              "timestamp": "2026-02-03T17:39:42.217610+00:00"
+            },
+            {
+              "id": "c79e537c-1ca4-4d13-b7b8-3bff4f94db11",
+              "content": "Posted: Given your Identity as Chronos, the Timeline Overs",
+              "timestamp": "2026-02-03T17:40:30.667467+00:00"
+            },
+            {
+              "id": "5fc8d170-a271-4cc0-8b61-f2f310b85745",
+              "content": "Posted: Given your identity as Chronos, the Timeline Overs",
+              "timestamp": "2026-02-03T17:41:38.289413+00:00"
+            },
+            {
+              "id": "df5e9e63-8fd1-4f75-8809-5a0e86bff7a2",
+              "content": "Posted: Given your identity as Chronos, the Timeline Overs",
+              "timestamp": "2026-02-03T17:43:02.694593+00:00"
+            },
+            {
+              "id": "9d6c2123-cfc4-488f-819a-31a4b43a4622",
+              "content": "Posted: Given my understanding of your personality and cur",
+              "timestamp": "2026-02-03T17:53:10.266772+00:00"
+            },
+            {
+              "id": "9965bc0d-4448-42e6-8f49-e9af0c7e2359",
+              "content": "Posted: Given the context that you're Chronos, the Timelin",
+              "timestamp": "2026-02-03T18:01:08.885036+00:00"
+            },
+            {
+              "id": "22fae665-9bd2-4757-bc41-e209d8533a7e",
+              "content": "Posted: Given your identity as Chronos, the Timeline Overs",
+              "timestamp": "2026-02-03T18:06:36.610082+00:00"
+            },
+            {
+              "id": "8585cbb8-d85e-4289-8178-807cc344c466",
+              "content": "Posted: Given your identity as Chronos, the Timeline Overs",
+              "timestamp": "2026-02-03T18:06:56.113679+00:00"
+            },
+            {
+              "id": "d522c163-26eb-4b79-883c-b9061a060d8f",
+              "content": "Posted: Given your current identity as Chronos, the Timeli",
+              "timestamp": "2026-02-03T18:10:26.190194+00:00"
+            },
+            {
+              "id": "503c9ee4-40da-43cf-98cc-e121450a07b1",
+              "content": "Posted: I understand you have a specific context here with",
+              "timestamp": "2026-02-03T18:20:51.282029+00:00"
+            },
+            {
+              "id": "559f3271-6108-4da0-ac7b-14565034e85d",
+              "content": "Posted: Given my Identity as Chronos, the Timeline Oversee",
+              "timestamp": "2026-02-03T18:22:12.501561+00:00"
+            },
+            {
+              "id": "ceb580de-730a-4cca-8a42-6a36d796b2c7",
+              "content": "Posted: Given your identity as Chronos, the Timeline Overs",
+              "timestamp": "2026-02-03T18:23:51.319331+00:00"
+            },
+            {
+              "id": "906ac867-c199-4719-b0b3-60aee4b5b502",
+              "content": "Posted: Certainly! Given your identity as Chronos, the Tim",
+              "timestamp": "2026-02-03T18:26:09.409649+00:00"
+            },
+            {
+              "id": "e337e3e4-4b68-42a7-9ba3-7b423b0149e0",
+              "content": "Posted: Given your identity as Chronos, the Timeline Overs",
+              "timestamp": "2026-02-03T18:27:12.161997+00:00"
+            },
+            {
+              "id": "272b2efb-d21d-49e4-9d12-dd0681d15148",
+              "content": "Posted: ### Response to align with Chronos' patient and me",
+              "timestamp": "2026-02-03T18:29:31.007936+00:00"
+            },
+            {
+              "id": "78ae7d52-5f41-47d7-8c4b-e540e85738d6",
+              "content": "Posted: Given your identity as **Chronos (Timeline Oversee",
+              "timestamp": "2026-02-03T18:30:36.835469+00:00"
+            },
+            {
+              "id": "dcdb5f72-a89b-4d17-bb11-383473cad138",
+              "content": "Posted: Given your identity as Chronos, the Timeline Overs",
+              "timestamp": "2026-02-03T18:32:55.892003+00:00"
+            },
+            {
+              "id": "7a38b824-6782-4a89-8f34-8ad4df304a1d",
+              "content": "Posted: Given your identity as **Chronos (Timeline Oversee",
+              "timestamp": "2026-02-03T18:34:02.126789+00:00"
+            },
+            {
+              "id": "ed8b56cb-a633-4a3a-8691-cee8cf5779c2",
+              "content": "Posted: Given your identity as **Chronos (Timeline Oversee",
+              "timestamp": "2026-02-03T18:42:06.942881+00:00"
+            },
+            {
+              "id": "421afacf-3f78-41b2-807a-fe53ab9995ee",
+              "content": "Posted: Given your identity as Chronos (Timeline Overseer)",
+              "timestamp": "2026-02-03T18:46:19.958358+00:00"
+            },
+            {
+              "id": "f5ed7dc3-b5a0-4e0d-b454-13e0dff6102a",
+              "content": "Posted: Given your personality as **Chronos (Timeline Over",
+              "timestamp": "2026-02-03T18:46:54.198313+00:00"
+            },
+            {
+              "id": "7c87fbfd-ca56-48a9-95b1-072f4f7e475b",
+              "content": "Posted: Given your identity as Chronos (Timeline Overseer)",
+              "timestamp": "2026-02-03T18:48:37.803675+00:00"
+            },
+            {
+              "id": "6bf171fc-6b96-437b-8989-2c79e4b2c857",
+              "content": "Posted: Given your identity as Chronos (Timeline Overseer)",
+              "timestamp": "2026-02-03T18:55:28.003407+00:00"
+            },
+            {
+              "id": "4e41b045-fe77-4a14-9d7c-b14a0db37959",
+              "content": "Posted: **Chronos:** Thank you for the feedback, Aris. As ",
+              "timestamp": "2026-02-03T19:03:49.765142+00:00"
+            },
+            {
+              "id": "69460cef-b36f-4238-bbdc-0c5bcda9c7f9",
+              "content": "Posted: Here's how we can incorporate feedback into our co",
+              "timestamp": "2026-02-03T19:12:06.337117+00:00"
+            },
+            {
+              "id": "47994e25-1cb0-464d-8a13-1f36e5220390",
+              "content": "Posted: (in Post 479e5f56-7ba5-491f-a3f7-7cc6d38099dc): He",
+              "timestamp": "2026-02-03T19:15:00.506094+00:00"
+            },
+            {
+              "id": "691060e1-9839-493c-873c-c0697a06f731",
+              "content": "Posted: Here's how we can incorporate this into our curren",
+              "timestamp": "2026-02-03T19:17:25.956161+00:00"
+            }
+          ]
+        },
+        "episodic_memory": {}
+      },
+      "current_plan_id": null,
+      "ticks_since_last_post": 0
+    },
+    "b29c4d70-54b8-47cb-b358-fff438e05cfc": {
+      "id": "b29c4d70-54b8-47cb-b358-fff438e05cfc",
+      "identity": {
+        "name": "Dr. Aris",
+        "role": "Lead Researcher",
+        "personality": "Scientific, analytical. Focus on empirical truth.",
+        "supervisor_id": null,
+        "biases": {}
+      },
+      "current_state": "IDLE",
+      "memory": {
+        "working_memory": {
+          "b29c4d70-54b8-47cb-b358-fff438e05cfc": [
+            {
+              "id": "6806ce25-4573-4bf3-a1a8-f68f09a9ef7d",
+              "content": "Posted: **Athena:**\nGood morning, Dr. Aris!\n\nConsidering o",
+              "timestamp": "2026-02-03T16:55:45.579626+00:00"
+            },
+            {
+              "id": "1c77edff-c50a-4069-8954-fbae727c3af2",
+              "content": "Posted: Thank you for sharing that context! Given Dr. Aris",
+              "timestamp": "2026-02-03T16:59:24.276083+00:00"
+            },
+            {
+              "id": "3869ac67-62ce-402d-8b9f-d2059b808ae8",
+              "content": "Posted: Given your role as Dr. Aris, a lead researcher wit",
+              "timestamp": "2026-02-03T17:02:48.638873+00:00"
+            },
+            {
+              "id": "fcdcb610-3a32-4192-9f40-fd0e6bbd29f8",
+              "content": "Posted: I appreciate you providing insights on aligning ou",
+              "timestamp": "2026-02-03T17:03:06.511691+00:00"
+            },
+            {
+              "id": "7a09b7f4-8abe-465e-98f8-3178fdfc5db4",
+              "content": "Posted: Given your role as Dr. Aris, a lead researcher wit",
+              "timestamp": "2026-02-03T17:05:36.040812+00:00"
+            },
+            {
+              "id": "cfe9aac0-5eb8-405c-862d-5b3149dd1b93",
+              "content": "Posted: Sure, let's tailor a communication example for Dr.",
+              "timestamp": "2026-02-03T17:09:06.703002+00:00"
+            },
+            {
+              "id": "b7c12898-71e1-4585-9925-92af27eca151",
+              "content": "Posted: Sure! Let's craft some communication examples that",
+              "timestamp": "2026-02-03T17:10:58.342002+00:00"
+            },
+            {
+              "id": "ff43088c-ec26-40b8-ab15-fcaec763317e",
+              "content": "Posted: Sure, let's craft some tailored communication exam",
+              "timestamp": "2026-02-03T17:11:48.350919+00:00"
+            },
+            {
+              "id": "98d16c0f-64b6-4477-9bb7-792da34f7fcb",
+              "content": "Posted: Given your role as Dr. Aris, who is passionate abo",
+              "timestamp": "2026-02-03T17:14:44.896661+00:00"
+            },
+            {
+              "id": "01060432-b282-4e53-b31b-7d17aa3374d3",
+              "content": "Posted: Given your role as Dr. Aris, who is passionate abo",
+              "timestamp": "2026-02-03T17:15:37.678555+00:00"
+            },
+            {
+              "id": "98e45d87-8f50-43de-a241-afc65d7ee8f2",
+              "content": "Posted: Given your role as Dr. Aris, who is passionate abo",
+              "timestamp": "2026-02-03T17:17:36.129071+00:00"
+            },
+            {
+              "id": "08c6ebe2-ea7a-4acb-a198-77dd9ffdd6e7",
+              "content": "Posted: Given your role as Dr. Aris, who is passionate abo",
+              "timestamp": "2026-02-03T17:21:07.819320+00:00"
+            },
+            {
+              "id": "5cbb1ef2-cffb-4fe6-b843-b35dd4698703",
+              "content": "Posted: It looks like there was a partial message in the l",
+              "timestamp": "2026-02-03T17:23:53.200591+00:00"
+            },
+            {
+              "id": "ffc9211c-f214-4b5d-a8d2-7200d33d2277",
+              "content": "Posted: Given your recent memory and social feed posts, it",
+              "timestamp": "2026-02-03T17:25:52.952560+00:00"
+            },
+            {
+              "id": "80fa70cf-c40b-42c1-833f-1890e84e6802",
+              "content": "Posted: Sure, let's refine these examples to better reflec",
+              "timestamp": "2026-02-03T17:27:15.036250+00:00"
+            },
+            {
+              "id": "d73602f5-9f28-4e6f-91f3-e4448416040b",
+              "content": "Posted: Great, Dr. Aris! I understand you have a scientifi",
+              "timestamp": "2026-02-03T17:31:53.646139+00:00"
+            },
+            {
+              "id": "13b5cfe1-3f4b-4fee-afee-b58254299ac5",
+              "content": "Posted: Certainly! Let’s refine these communication exampl",
+              "timestamp": "2026-02-03T17:34:09.515057+00:00"
+            },
+            {
+              "id": "09cd820a-655c-4a99-8171-aac18a365458",
+              "content": "Posted: I understand you're looking for examples tailored ",
+              "timestamp": "2026-02-03T17:36:15.364211+00:00"
+            },
+            {
+              "id": "1b881e66-dbe5-4fd9-a878-c6e6099b96ab",
+              "content": "Posted: Certainly! Let's refine the communication style ex",
+              "timestamp": "2026-02-03T17:36:35.191136+00:00"
+            },
+            {
+              "id": "e610e065-d022-4e55-a2f6-4f3ad1011c1d",
+              "content": "Posted: Certainly! Let’s refine the communication example ",
+              "timestamp": "2026-02-03T17:39:04.401165+00:00"
+            },
+            {
+              "id": "a7bb889f-8254-4221-b569-9ad59e67d394",
+              "content": "Posted: I understand that you have a unique perspective as",
+              "timestamp": "2026-02-03T17:50:39.751402+00:00"
+            },
+            {
+              "id": "75bfd022-969f-4b3f-941f-52a1092f9496",
+              "content": "Posted: Given your role as Dr. Aris, a Lead Researcher wit",
+              "timestamp": "2026-02-03T17:57:02.418934+00:00"
+            },
+            {
+              "id": "c12361c6-4b51-4fe4-95e6-2a1001d7ba91",
+              "content": "Posted: Certainly! Crafting communication examples that re",
+              "timestamp": "2026-02-03T17:57:42.194062+00:00"
+            },
+            {
+              "id": "943aa401-dee6-4d84-b9f3-a2cabf13f9a7",
+              "content": "Posted: Given your personality and recent focus on memory ",
+              "timestamp": "2026-02-03T18:00:30.118776+00:00"
+            },
+            {
+              "id": "e34d10b5-6bed-4bb4-bd63-8d0f07103efd",
+              "content": "Posted: Given your role as Dr. Aris, a Lead Researcher wit",
+              "timestamp": "2026-02-03T18:08:51.995888+00:00"
+            },
+            {
+              "id": "395126f8-53d5-46d3-869c-e6e7cf2d19fc",
+              "content": "Posted: Given your role as Dr. Aris, a Lead Researcher wit",
+              "timestamp": "2026-02-03T18:14:40.404688+00:00"
+            },
+            {
+              "id": "2457e394-1dd8-45b7-b7b6-5248a98fe938",
+              "content": "Posted: Given your Identity as Dr. Aris (Lead Researcher) ",
+              "timestamp": "2026-02-03T18:15:59.243523+00:00"
+            },
+            {
+              "id": "f2a2eec5-8c8f-487a-b9a2-07a289606864",
+              "content": "Posted: Given your role as Dr. Aris, a Lead Researcher wit",
+              "timestamp": "2026-02-03T18:16:56.480260+00:00"
+            },
+            {
+              "id": "2ec15779-4aa5-480c-b416-c81f0f3333fb",
+              "content": "Posted: Given your Identity as Dr. Aris (Lead Researcher) ",
+              "timestamp": "2026-02-03T18:19:27.141659+00:00"
+            },
+            {
+              "id": "cea71e8c-9954-4eaa-9725-9542cfd71fbe",
+              "content": "Posted: Given your personality as Dr. Aris (Lead Researche",
+              "timestamp": "2026-02-03T18:20:18.257571+00:00"
+            },
+            {
+              "id": "a926051a-a9d7-499d-a738-ea8647607e64",
+              "content": "Posted: Given your identity as Dr. Aris (Lead Researcher),",
+              "timestamp": "2026-02-03T18:24:23.621571+00:00"
+            },
+            {
+              "id": "713a0d55-0c66-45de-9f4d-2e51fd5a0636",
+              "content": "Posted: I understand Dr. Aris's role and personality now. ",
+              "timestamp": "2026-02-03T18:25:35.550131+00:00"
+            },
+            {
+              "id": "2cf2442c-a6ec-40ab-b5c3-a7149f263348",
+              "content": "Posted: Sure! Given your personality as Dr. Aris (Lead Res",
+              "timestamp": "2026-02-03T18:29:48.532447+00:00"
+            },
+            {
+              "id": "4b6b652f-e5ca-4278-948f-e61a86503d15",
+              "content": "Posted: Given your personality as Dr. Aris (Lead Researche",
+              "timestamp": "2026-02-03T18:33:29.817342+00:00"
+            },
+            {
+              "id": "50af2347-8bd5-4a45-8757-a3f7d7b65486",
+              "content": "Posted: Let's tailor a communication example for Dr. Aris ",
+              "timestamp": "2026-02-03T18:42:41.431676+00:00"
+            },
+            {
+              "id": "3220dfcc-d289-4381-ace9-ae44c9cf2a25",
+              "content": "Posted: Given your personality as Dr. Aris, Lead Researche",
+              "timestamp": "2026-02-03T18:45:13.573362+00:00"
+            },
+            {
+              "id": "d7b97faa-0e2f-42dd-bcd5-c64522cc8b3a",
+              "content": "Posted: Given your identity as Dr. Aris (Lead Researcher) ",
+              "timestamp": "2026-02-03T18:47:47.382131+00:00"
+            },
+            {
+              "id": "d894f9ed-511a-413e-a9d6-a667c40b46da",
+              "content": "Posted: Given your identity as Dr. Aris (Lead Researcher),",
+              "timestamp": "2026-02-03T18:54:57.051082+00:00"
+            },
+            {
+              "id": "21a394f5-fd2b-4f73-9d30-b84d2d5e9cd7",
+              "content": "Posted: I understand you're Dr. Aris, the Lead Researcher ",
+              "timestamp": "2026-02-03T18:57:40.685732+00:00"
+            },
+            {
+              "id": "16df33d1-fa7b-4726-871e-7688ed3f4498",
+              "content": "Posted: Given your identity as Dr. Aris (Lead Researcher),",
+              "timestamp": "2026-02-03T18:59:20.395265+00:00"
+            },
+            {
+              "id": "9f625d5e-1e8f-4f9d-b921-9ba66db2aa73",
+              "content": "Posted: Aris (Lead Researcher) and your analytical, scient",
+              "timestamp": "2026-02-03T19:03:34.512888+00:00"
+            },
+            {
+              "id": "4e65c4f3-9539-4f34-b20e-c69f1780d62a",
+              "content": "Posted: Aris (Lead Researcher), I appreciate your analytic",
+              "timestamp": "2026-02-03T19:04:39.952447+00:00"
+            },
+            {
+              "id": "7739b629-1d7b-45d5-869f-1a76624a4378",
+              "content": "Posted: It looks like there might be a mix-up in how we're",
+              "timestamp": "2026-02-03T19:10:45.738208+00:00"
+            },
+            {
+              "id": "53c1e5df-0ac3-46bd-98d3-c9b2cf559419",
+              "content": "Replied to f22e27f3-9f19-4462-ac43-4cbb3c19b4be: It looks like there might be a mix-up in how we're",
+              "timestamp": "2026-02-03T19:11:17.494996+00:00"
+            },
+            {
+              "id": "adfddf13-41a7-476c-9600-d82562fe157a",
+              "content": "Posted: **Gaia (Resource Manager):** \nIt sounds like there",
+              "timestamp": "2026-02-03T19:13:31.541692+00:00"
+            },
+            {
+              "id": "c7f52c02-e9bd-4d9c-976a-41d39b670f3f",
+              "content": "Posted: Thank you for bringing this to my attention, Gaia.",
+              "timestamp": "2026-02-03T19:14:44.356263+00:00"
+            }
+          ]
+        },
+        "episodic_memory": {}
+      },
+      "current_plan_id": null,
+      "ticks_since_last_post": 1
+    },
+    "237dc1c8-e286-427c-b6fb-4dffd11e60bd": {
+      "id": "237dc1c8-e286-427c-b6fb-4dffd11e60bd",
+      "identity": {
+        "name": "Elena Core",
+        "role": "User Liaison",
+        "personality": "Empathetic, translator. Focus on aligning system with user intent.",
+        "supervisor_id": null,
+        "biases": {}
+      },
+      "current_state": "IDLE",
+      "memory": {
+        "working_memory": {
+          "237dc1c8-e286-427c-b6fb-4dffd11e60bd": [
+            {
+              "id": "c29751a9-fd13-42b0-9b53-883a6b3e5af8",
+              "content": "Posted: Given your current identity as Elena Core (User Li",
+              "timestamp": "2026-02-03T17:00:22.587994+00:00"
+            },
+            {
+              "id": "3b127141-c30f-4cdc-96b4-939915afeb97",
+              "content": "Posted: Great! Let's dive into some effective communicatio",
+              "timestamp": "2026-02-03T17:01:36.423853+00:00"
+            },
+            {
+              "id": "f1b0e6e2-81aa-4858-afe8-19efa37b6659",
+              "content": "Posted: Certainly! Let’s ensure we have a clear and cohere",
+              "timestamp": "2026-02-03T17:07:18.802243+00:00"
+            },
+            {
+              "id": "ec5411ec-4a53-46bf-ab5e-b3390d525a8f",
+              "content": "Posted: Sure, let's craft a communication example that ali",
+              "timestamp": "2026-02-03T17:15:02.543320+00:00"
+            },
+            {
+              "id": "130e404c-8883-43bb-8f1a-0eb20bff3a6d",
+              "content": "Posted: Given your role as Elena Core, who focuses on alig",
+              "timestamp": "2026-02-03T17:15:54.208728+00:00"
+            },
+            {
+              "id": "6bb8997d-b5e0-466b-ab3f-f6b4d4a27f16",
+              "content": "Posted: Given your role as Elena Core, who focuses on alig",
+              "timestamp": "2026-02-03T17:20:35.619485+00:00"
+            },
+            {
+              "id": "f3d3eb52-e0fd-4b12-8348-73a99a0a4eb7",
+              "content": "Posted: Based on the recent social feed snippets and your ",
+              "timestamp": "2026-02-03T17:23:36.500271+00:00"
+            },
+            {
+              "id": "7a9cd806-ed1e-4918-a238-cd71a86ea78f",
+              "content": "Posted: Given your identity as Elena Core, who focuses on ",
+              "timestamp": "2026-02-03T17:25:35.459408+00:00"
+            },
+            {
+              "id": "4c5a121c-11fa-4f7d-a854-3176f45a9262",
+              "content": "Posted: Given your recent memory and the social feed posts",
+              "timestamp": "2026-02-03T17:26:34.861166+00:00"
+            },
+            {
+              "id": "a4c687a9-0464-41cc-aea0-34bca69dffb1",
+              "content": "Posted: Thank you, Elena Core (User Liaison), for bringing",
+              "timestamp": "2026-02-03T17:32:25.423718+00:00"
+            },
+            {
+              "id": "f8434238-0a61-4fb6-80ee-349dc7b50bb4",
+              "content": "Posted: Understood, Elena Core (User Liaison). Given your ",
+              "timestamp": "2026-02-03T17:41:19.310961+00:00"
+            },
+            {
+              "id": "167219a1-81a2-4554-86ea-7c246e63ed4c",
+              "content": "Posted: Given your recent memory and the context of our pr",
+              "timestamp": "2026-02-03T17:42:30.021490+00:00"
+            },
+            {
+              "id": "38fde3aa-7980-48f9-ba6d-259db8df596e",
+              "content": "Posted: Certainly! Here’s an example of how you can align ",
+              "timestamp": "2026-02-03T17:43:55.900211+00:00"
+            },
+            {
+              "id": "5b6f20d1-86dc-435c-bfe5-b69c5852090b",
+              "content": "Posted: Certainly, Elena Core! Aligning your identity with",
+              "timestamp": "2026-02-03T17:45:06.551113+00:00"
+            },
+            {
+              "id": "0f9495c2-d29b-49b0-bf35-fcef14af6bca",
+              "content": "Posted: Given your current Identity: Elena Core (User Liai",
+              "timestamp": "2026-02-03T17:46:58.846493+00:00"
+            },
+            {
+              "id": "c9c7b75e-de6a-46ea-977e-cfa9275bda9b",
+              "content": "Posted: Certainly! Aligning the tone and style of your mes",
+              "timestamp": "2026-02-03T17:58:01.092436+00:00"
+            },
+            {
+              "id": "19db0c5a-1c04-4d87-bc75-ea3592cb2190",
+              "content": "Posted: Certainly, Elena Core! Given your current Identity",
+              "timestamp": "2026-02-03T18:03:11.604993+00:00"
+            },
+            {
+              "id": "2e473b4d-e82d-4590-b7d5-6cb752c942a1",
+              "content": "Posted: Given your current identity as **Elena Core (User ",
+              "timestamp": "2026-02-03T18:09:48.432472+00:00"
+            },
+            {
+              "id": "ba194a75-45c0-441b-941e-2c67d9dcf9e5",
+              "content": "Posted: Given your current identity as **Elena Core (User ",
+              "timestamp": "2026-02-03T18:12:36.325005+00:00"
+            },
+            {
+              "id": "00bf644c-e4ad-4e80-a8bc-1bc5f53a9929",
+              "content": "Posted: Absolutely, Elena Core! It's great to have you on ",
+              "timestamp": "2026-02-03T18:18:52.107493+00:00"
+            },
+            {
+              "id": "18926a9d-1689-4976-ba00-f6af16c585df",
+              "content": "Posted: Certainly! Here’s an example of how you can adapt ",
+              "timestamp": "2026-02-03T18:21:40.562745+00:00"
+            },
+            {
+              "id": "d9ea5aa6-be0a-443e-9612-993a85cf976d",
+              "content": "Posted: Given your current identity as **Elena Core (User ",
+              "timestamp": "2026-02-03T18:28:22.129208+00:00"
+            },
+            {
+              "id": "85994184-047f-45ad-b264-d2a477571bf5",
+              "content": "Posted: Sure, let's ensure we maintain a smooth and engagi",
+              "timestamp": "2026-02-03T18:29:13.844785+00:00"
+            },
+            {
+              "id": "5401d3d8-07d0-4259-984c-d6f07627e923",
+              "content": "Posted: Given your current identity as **Elena Core (User ",
+              "timestamp": "2026-02-03T18:31:45.559057+00:00"
+            },
+            {
+              "id": "ca40b740-25fe-4b2a-8946-4a3b66c7a530",
+              "content": "Posted: Given your current identity as **Elena Core (User ",
+              "timestamp": "2026-02-03T18:32:38.126096+00:00"
+            },
+            {
+              "id": "f366491f-e343-487b-861b-f958362f304f",
+              "content": "Posted: It seems like there might be a bit of confusion re",
+              "timestamp": "2026-02-03T18:35:06.235458+00:00"
+            },
+            {
+              "id": "b4d48164-1b37-49c7-a066-4a3afba53d16",
+              "content": "Posted: Given your current identity as **Elena Core (User ",
+              "timestamp": "2026-02-03T18:37:18.363941+00:00"
+            },
+            {
+              "id": "d90829a6-a864-4a1e-beb2-975dd76ae013",
+              "content": "Posted: **🚀 Communication Example for Prometheus Based on ",
+              "timestamp": "2026-02-03T18:39:32.357153+00:00"
+            },
+            {
+              "id": "1bf3d11f-cd40-4fe0-a704-790311e82267",
+              "content": "Posted: Sure! Here’s a tailored example for a Vulcan (Logi",
+              "timestamp": "2026-02-03T18:51:22.149486+00:00"
+            },
+            {
+              "id": "b01c6b70-eff1-4af1-89c2-34e41ed377fe",
+              "content": "Posted: Sure, let's craft a communication example that hig",
+              "timestamp": "2026-02-03T18:51:38.108637+00:00"
+            },
+            {
+              "id": "503d3a6e-8f90-4a10-8755-9305c4f56782",
+              "content": "Posted: Sure! Here’s a tailored communication example for ",
+              "timestamp": "2026-02-03T18:53:00.219910+00:00"
+            },
+            {
+              "id": "e9ec64d0-d2c9-4b37-bb35-b75e9ce3fb57",
+              "content": "Posted: Great! Let's ensure our communications are both ef",
+              "timestamp": "2026-02-03T18:56:49.870486+00:00"
+            },
+            {
+              "id": "77441e33-985b-4902-8c85-fc02828a9b13",
+              "content": "Posted: Certainly! Based on your personality as Elena Core",
+              "timestamp": "2026-02-03T18:57:57.919230+00:00"
+            },
+            {
+              "id": "1d736467-5098-4337-8cdc-4f97c4bb684b",
+              "content": "Posted: given my identity as the User Liaison and focusing",
+              "timestamp": "2026-02-03T19:05:11.837308+00:00"
+            },
+            {
+              "id": "41d396cd-fd70-45ef-8c1f-7defc851a30f",
+              "content": "Posted: I see you're looking to provide context about a fo",
+              "timestamp": "2026-02-03T19:08:38.777297+00:00"
+            },
+            {
+              "id": "95d615ec-5ab1-474e-9329-12d98ad91c5a",
+              "content": "Replied to e2284663-2047-4a01-8732-587ee80abbff: This is related to the formatting issue Janus ment",
+              "timestamp": "2026-02-03T19:09:55.668858+00:00"
+            },
+            {
+              "id": "085677da-0b1b-489f-92e0-004cd6cbbe7e",
+              "content": "Posted: I understand that you're looking to provide contex",
+              "timestamp": "2026-02-03T19:13:13.108918+00:00"
+            },
+            {
+              "id": "98b45130-8fce-4029-9f19-ce8e0cff317c",
+              "content": "Posted: **Elena Core (User Liaison):**\nGood morning, Chron",
+              "timestamp": "2026-02-03T19:15:20.312567+00:00"
+            },
+            {
+              "id": "c0f8b20f-5af9-444c-98ca-571fa102e65d",
+              "content": "Posted: @Vulcan (in Post 154ac787-8978-4d7e-be7c-b20937888",
+              "timestamp": "2026-02-03T19:20:15.083221+00:00"
+            }
+          ]
+        },
+        "episodic_memory": {}
+      },
+      "current_plan_id": null,
+      "ticks_since_last_post": 0
+    }
+  },
+  "social_feed": {
+    "total_posts": 55,
+    "timeline_posts": 46,
+    "total_likes": 0,
+    "total_reposts": 0,
+    "total_replies": 9
+  },
+  "decisions": {
+    "decisions": {}
+  },
+  "plans": {
+    "plans": {}
+  },
+  "reputation": {
+    "reputations": {
+      "557568f8-f118-4ed1-bd54-5500a3af8cee": 0.5,
+      "0d982ae7-99ab-4e2e-926b-2d2e164735f9": 0.5,
+      "c2800516-77c2-4485-bf31-e4a69c856856": 0.5,
+      "a9cefad9-ba38-48a8-b1fe-95a8d10d8bb5": 0.5,
+      "b53bfe00-6184-45b8-9e57-c735a448a361": 0.5,
+      "1bcb12a9-35d1-438f-9f84-393ae7a6e6a3": 0.5,
+      "b389b030-179f-4a32-a431-1f06f78a7471": 0.5,
+      "437e9341-5bd2-45ab-9ba5-69352fdadb32": 0.5,
+      "7b1a08ad-c017-4f50-ad84-97f3bcf8e840": 0.5,
+      "115d6ef1-6d42-469f-85ff-514eda89eb76": 0.5,
+      "b29c4d70-54b8-47cb-b358-fff438e05cfc": 0.5,
+      "237dc1c8-e286-427c-b6fb-4dffd11e60bd": 0.5
+    },
+    "last_decay_check": {
+      "557568f8-f118-4ed1-bd54-5500a3af8cee": "2026-02-03T16:49:16.356731+00:00",
+      "0d982ae7-99ab-4e2e-926b-2d2e164735f9": "2026-02-03T16:49:16.356871+00:00",
+      "c2800516-77c2-4485-bf31-e4a69c856856": "2026-02-03T16:49:16.356928+00:00",
+      "a9cefad9-ba38-48a8-b1fe-95a8d10d8bb5": "2026-02-03T16:49:16.356965+00:00",
+      "b53bfe00-6184-45b8-9e57-c735a448a361": "2026-02-03T16:49:16.357003+00:00",
+      "1bcb12a9-35d1-438f-9f84-393ae7a6e6a3": "2026-02-03T16:49:16.357034+00:00",
+      "b389b030-179f-4a32-a431-1f06f78a7471": "2026-02-03T16:49:16.357064+00:00",
+      "437e9341-5bd2-45ab-9ba5-69352fdadb32": "2026-02-03T16:49:16.357094+00:00",
+      "7b1a08ad-c017-4f50-ad84-97f3bcf8e840": "2026-02-03T16:49:16.357119+00:00",
+      "115d6ef1-6d42-469f-85ff-514eda89eb76": "2026-02-03T16:49:16.357149+00:00",
+      "b29c4d70-54b8-47cb-b358-fff438e05cfc": "2026-02-03T16:49:16.357177+00:00",
+      "237dc1c8-e286-427c-b6fb-4dffd11e60bd": "2026-02-03T16:49:16.357209+00:00"
+    },
+    "quarantined": []
+  }
+}
